@@ -1,1 +1,4 @@
 banner/*.png
+banner.tsv
+temp.json
+.vscode/launch.json
