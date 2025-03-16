@@ -21,25 +21,50 @@ def get_value(value):
     """Gibt den Wert zurück oder 'N/A', falls er nicht verfügbar ist."""
     return value if pd.notna(value) else "N/A"
 
-def download_image(image_url, save_path):
+
+def download_image_from_url(page_url, save_path):
     """
-    Lädt ein Bild von einer direkten Bild-URL herunter.
-    
-    :param image_url: URL des Bildes
+    Lädt das erste Bild eines Hyperlinks herunter, falls es noch nicht existiert.
+    :param page_url: URL der Webseite, von der das Bild heruntergeladen werden soll
     :param save_path: Pfad, unter dem das Bild gespeichert werden soll
     """
+    if os.path.exists(save_path):
+        print(f"Bild existiert bereits: {save_path}")
+        return False
+    
     try:
-        response = requests.get(image_url, stream=True, timeout=10)
+        # Webseite abrufen
+        response = requests.get(page_url, timeout=10)
         response.raise_for_status()
-
+        
+        # HTML mit BeautifulSoup parsen
+        from bs4 import BeautifulSoup
+        from urllib.parse import urljoin
+        
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        # Erstes Bild-Tag (<img>) finden
+        img_tag = soup.find("img")
+        if not img_tag or not img_tag.get("src"):
+            print("Kein Bild gefunden.")
+            return False
+        
+        # Absoluten Bildlink erstellen
+        img_url = urljoin(page_url, img_tag["src"])
+        
+        # Bild abrufen
+        img_response = requests.get(img_url, stream=True, timeout=10)
+        img_response.raise_for_status()
+        
+        # Bild speichern
         with open(save_path, 'wb') as file:
-            for chunk in response.iter_content(1024):
+            for chunk in img_response.iter_content(1024):
                 file.write(chunk)
-
+        
         print(f"Bild gespeichert unter: {save_path}")
         return True
     except requests.RequestException as e:
-        print(f"Fehler beim Herunterladen des Bildes: {e}")
+        print(f"Fehler beim Abrufen der URL: {e}")
         return False
 
 def download_picture(banner_nr, link):
@@ -63,8 +88,7 @@ def download_picture(banner_nr, link):
 
     page_url = f"""https://api.bannergress.com{json_file["picture"]}"""
     save_path = f"""banner/{banner_nr}.jpg"""
-    download_image(page_url, save_path)
-
+    download_image_from_url(page_url, save_path)
     print()
 
 def tsv_to_geojson(input_file, output_file):
@@ -92,10 +116,14 @@ def tsv_to_geojson(input_file, output_file):
             link = bg_link.split("/")
             link = link[len(link) - 1]
             download_picture(banner_nr, link)
-            picture_path = f"Blub_{banner_nr}"
+            picture_path = f"https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/{banner_nr}.jpg"
         else:
-            need_picture_list.append(f"{banner_id}: {get_value(row['titel'])}")
-            picture_path = "N/A"
+            save_path = f"""banner/{banner_nr}.jpg"""
+            if not os.path.exists(save_path):
+                need_picture_list.append(f"{banner_nr}: {get_value(row['titel'])}")
+                picture_path = "N/A"
+            else:
+                picture_path = f"https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/{banner_nr}.jpg"
 
         feature = {
             "type": "Feature",
@@ -104,7 +132,7 @@ def tsv_to_geojson(input_file, output_file):
                 "coordinates": [convert_to_float(row["startLongitude"]), convert_to_float(row["startLatitude"])]
             },
             "properties": {
-                "nummer": banner_id,
+                "nummer": banner_nr,
                 "title": get_value(row["titel"]),
                 "picture": picture_path,
                 "region": get_value(row["region"]),

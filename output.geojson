@@ -37,7 +37,7 @@
             "properties": {
                 "nummer": 2,
                 "title": "Vicke Schorler Rolle",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/2.jpg",
                 "region": "Rostock",
                 "country": "Deutschland",
                 "completed": 102.0,
@@ -61,7 +61,7 @@
             "properties": {
                 "nummer": 3,
                 "title": "Hacking Tour in und um Prohn",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/3.jpg",
                 "region": "Prohn",
                 "country": "Deutschland",
                 "completed": 108.0,
@@ -133,7 +133,7 @@
             "properties": {
                 "nummer": 6,
                 "title": "Besuch der 4 Tore",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/6.jpg",
                 "region": "Neubrandenburg",
                 "country": "Deutschland",
                 "completed": 144.0,
@@ -469,7 +469,7 @@
             "properties": {
                 "nummer": 20,
                 "title": "STAR WARS - Das Erwachen der Macht (Berlin)",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/20.jpg",
                 "region": "Berlin",
                 "country": "Deutschland",
                 "completed": 354.0,
