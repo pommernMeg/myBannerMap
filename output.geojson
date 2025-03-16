@@ -174,7 +174,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.374885,
+                    13.74885,
                     53.506861
                 ]
             },
@@ -685,7 +685,7 @@
             "properties": {
                 "nummer": 29,
                 "title": "MUCstock",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/29.jpg",
                 "region": "München",
                 "country": "Deutschland",
                 "completed": 546.0,
@@ -829,7 +829,7 @@
             "properties": {
                 "nummer": 35,
                 "title": "Ingress First Saturday FFB 03 09 2016",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/35.jpg",
                 "region": "Fürstenfeldbruck",
                 "country": "Deutschland",
                 "completed": 690.0,
@@ -1141,7 +1141,7 @@
             "properties": {
                 "nummer": 48,
                 "title": "Klue",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/48.jpg",
                 "region": "München",
                 "country": "Deutschland",
                 "completed": 1.092,
@@ -1213,7 +1213,7 @@
             "properties": {
                 "nummer": 51,
                 "title": "München",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/51.jpg",
                 "region": "München",
                 "country": "Deutschland",
                 "completed": 1.188,
@@ -14613,7 +14613,7 @@
                 "category": 6,
                 "date": 2025,
                 "bg_link": "https://bannergress.com/banner/marx-is-calling-you-neubrandenburg-459a",
-                "description": "#ERROR!",
+                "description": "+Theta Chemnitz is coming! Explore a city in transformation from industrial heritage and stunning architecture to cultural diversity. As ECoC 2025, Chemnitz invites you to C the Unseen!",
                 "length_km": 1.366
             }
         }

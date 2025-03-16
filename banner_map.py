@@ -89,14 +89,16 @@ def download_picture(banner_nr, link):
     page_url = f"""https://api.bannergress.com{json_file["picture"]}"""
     save_path = f"""banner/{banner_nr}.jpg"""
     download_image_from_url(page_url, save_path)
-    print()
+
+    # status = json_file[]
+    # return status
 
 def tsv_to_geojson(input_file, output_file):
     # TSV-Datei einlesen
     df = pd.read_csv(input_file, sep='\t')
 
     # Sicherstellen, dass der Ordner für Bilder existiert
-    os.makedirs("Banner", exist_ok=True)
+    os.makedirs("banner", exist_ok=True)
 
     # Liste für Banner ohne BG-Link
     need_picture_list = []

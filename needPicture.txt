@@ -1,7 +1,3 @@
-29: MUCstock
-35: Ingress First Saturday FFB 03 09 2016
-48: Klue
-51: München
 123: Eine Woche voller Kuchen
 124: Augsburg im Februar
 125: Goldener Saal Augsburg
