@@ -71,7 +71,6 @@ def download_picture(banner_nr, link):
     save_path = f"""banner/{banner_nr}.jpg"""
     download_image_from_url(page_url, save_path)
 
-
 def tsv_to_geojson(input_file, output_file):
     # TSV-Datei einlesen
     df = pd.read_csv(input_file, sep='\t')
