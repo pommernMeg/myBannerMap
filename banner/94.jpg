@@ -1,8 +1,8 @@
 version https://git-lfs.github.com/spec/v1
 <<<<<<< HEAD
+oid sha256:9e075643781fe22de337391bbbacfb2fa5e1fa4e5564583326f49011bdadf0b9
+size 289
+=======
 oid sha256:760e2952cdc6ea782f4deef9de11a327e9f3e884a094abb1a872ecac8bd0bcae
 size 238789
-=======
-oid sha256:57912265b1f57ec9931abc352d685e21dc7c1a9c85922b59e6e4f58c8eaf1eb0
-size 146217
->>>>>>> d23be75 (add banner picture and geojson)
+>>>>>>> 488118d (update the map)
