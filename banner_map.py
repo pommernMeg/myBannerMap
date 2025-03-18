@@ -90,8 +90,6 @@ def download_picture(banner_nr, link):
     save_path = f"""banner/{banner_nr}.jpg"""
     download_image_from_url(page_url, save_path)
 
-    # status = json_file[]
-    # return status
 
 def tsv_to_geojson(input_file, output_file):
     # TSV-Datei einlesen

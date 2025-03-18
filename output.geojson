@@ -2941,7 +2941,7 @@
             "properties": {
                 "nummer": 123,
                 "title": "Eine Woche voller Kuchen",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/123.jpg",
                 "region": "Augsburg",
                 "country": "Deutschland",
                 "completed": 3.024,
@@ -2965,7 +2965,7 @@
             "properties": {
                 "nummer": 124,
                 "title": "Augsburg im Februar",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/124.jpg",
                 "region": "Augsburg",
                 "country": "Deutschland",
                 "completed": 3.054,
@@ -2989,7 +2989,7 @@
             "properties": {
                 "nummer": 125,
                 "title": "Goldener Saal Augsburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/125.jpg",
                 "region": "Augsburg",
                 "country": "Deutschland",
                 "completed": 3.078,
@@ -3157,7 +3157,7 @@
             "properties": {
                 "nummer": 132,
                 "title": "An der Paulskirche",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/132.jpg",
                 "region": "Frankfurt am Main",
                 "country": "Deutschland",
                 "completed": 3.216,
@@ -3277,7 +3277,7 @@
             "properties": {
                 "nummer": 137,
                 "title": "Olydorf-Tour",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/137.jpg",
                 "region": "München",
                 "country": "Deutschland",
                 "completed": 3.306,
@@ -3301,7 +3301,7 @@
             "properties": {
                 "nummer": 138,
                 "title": "Zum Viktualienmarkt",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/138.jpg",
                 "region": "München",
                 "country": "Deutschland",
                 "completed": 3.324,
@@ -3397,7 +3397,7 @@
             "properties": {
                 "nummer": 142,
                 "title": "Augsburg im März",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/142.jpg",
                 "region": "Augsburg",
                 "country": "Deutschland",
                 "completed": 3.396,
@@ -3517,7 +3517,7 @@
             "properties": {
                 "nummer": 147,
                 "title": "Süße Verführung in Augsburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/147.jpg",
                 "region": "Augsburg",
                 "country": "Deutschland",
                 "completed": 3.576,
@@ -3589,7 +3589,7 @@
             "properties": {
                 "nummer": 150,
                 "title": "Blue Moon 2018",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/150.jpg",
                 "region": "München",
                 "country": "Deutschland",
                 "completed": 3.66,
@@ -3613,7 +3613,7 @@
             "properties": {
                 "nummer": 151,
                 "title": "Augsburg im April",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/151.jpg",
                 "region": "Augsburg",
                 "country": "Deutschland",
                 "completed": 3.69,
@@ -3637,7 +3637,7 @@
             "properties": {
                 "nummer": 152,
                 "title": "Augsburger Dom",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/152.jpg",
                 "region": "Augsburg",
                 "country": "Deutschland",
                 "completed": 3.72,
@@ -3685,7 +3685,7 @@
             "properties": {
                 "nummer": 154,
                 "title": "50 Shades of Cyan",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/154.jpg",
                 "region": "Salzburg",
                 "country": "Österreich",
                 "completed": 3.738,
@@ -3733,7 +3733,7 @@
             "properties": {
                 "nummer": 156,
                 "title": "Frühlingsspaziergang",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/156.jpg",
                 "region": "München",
                 "country": "Deutschland",
                 "completed": 3.786,
@@ -3925,7 +3925,7 @@
             "properties": {
                 "nummer": 164,
                 "title": "Blaue Nacht Ost",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/164.jpg",
                 "region": "Nürnberg",
                 "country": "Deutschland",
                 "completed": 3.984,
@@ -3949,7 +3949,7 @@
             "properties": {
                 "nummer": 165,
                 "title": "Blaue Nacht Nord",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/165.jpg",
                 "region": "Nürnberg",
                 "country": "Deutschland",
                 "completed": 4.02,
@@ -3973,7 +3973,7 @@
             "properties": {
                 "nummer": 166,
                 "title": "Blaue Nacht Süd",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/166.jpg",
                 "region": "Nürnberg",
                 "country": "Deutschland",
                 "completed": 4.056,
@@ -3997,7 +3997,7 @@
             "properties": {
                 "nummer": 167,
                 "title": "Catpool (Rote Nürnberger Katze)",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/167.jpg",
                 "region": "Nürnberg",
                 "country": "Deutschland",
                 "completed": 4.092,
@@ -4069,7 +4069,7 @@
             "properties": {
                 "nummer": 170,
                 "title": "Friedrichshain Nord",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/170.jpg",
                 "region": "Berlin",
                 "country": "Deutschland",
                 "completed": 4.122,
@@ -4189,7 +4189,7 @@
             "properties": {
                 "nummer": 175,
                 "title": "Whaleomaly is Coming [Berg am Laim]",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/175.jpg",
                 "region": "München",
                 "country": "Deutschland",
                 "completed": 4.188,
@@ -4213,7 +4213,7 @@
             "properties": {
                 "nummer": 176,
                 "title": "Augsburg im Mai",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/176.jpg",
                 "region": "Augsburg",
                 "country": "Deutschland",
                 "completed": 4.218,
@@ -4237,7 +4237,7 @@
             "properties": {
                 "nummer": 177,
                 "title": "Augsburg im Juni",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/177.jpg",
                 "region": "Augsburg",
                 "country": "Deutschland",
                 "completed": 4.248,
@@ -4333,7 +4333,7 @@
             "properties": {
                 "nummer": 181,
                 "title": "Catpool (Rote Augsburger Katze)",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/181.jpg",
                 "region": "Augsburg",
                 "country": "Deutschland",
                 "completed": 4.368,
@@ -4621,7 +4621,7 @@
             "properties": {
                 "nummer": 193,
                 "title": "Wale auch in Altötting",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/193.jpg",
                 "region": "Altötting",
                 "country": "Deutschland",
                 "completed": 4.578,
@@ -4813,7 +4813,7 @@
             "properties": {
                 "nummer": 201,
                 "title": "Region Skåne Banner",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/201.jpg",
                 "region": "Malmö",
                 "country": "Sverige",
                 "completed": 4.716,
@@ -4909,7 +4909,7 @@
             "properties": {
                 "nummer": 205,
                 "title": "Catpool (Rote Münchner Katze)",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/205.jpg",
                 "region": "München",
                 "country": "Deutschland",
                 "completed": 4.812,
@@ -5101,7 +5101,7 @@
             "properties": {
                 "nummer": 213,
                 "title": "#MP Stan Lee Tribute [München-Pasing]",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/213.jpg",
                 "region": "München",
                 "country": "Deutschland",
                 "completed": 5.178,
@@ -5149,7 +5149,7 @@
             "properties": {
                 "nummer": 215,
                 "title": "Neustrelitz",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/215.jpg",
                 "region": "Neustrelitz",
                 "country": "Deutschland",
                 "completed": 5.22,
@@ -6133,7 +6133,7 @@
             "properties": {
                 "nummer": 256,
                 "title": "FS Berlin Halloween",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/256.jpg",
                 "region": "Berlin",
                 "country": "Deutschland",
                 "completed": 6.162,
@@ -8221,7 +8221,7 @@
             "properties": {
                 "nummer": 343,
                 "title": "Mister-Universe in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/343.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 7.758,
@@ -8269,7 +8269,7 @@
             "properties": {
                 "nummer": 345,
                 "title": "Mr Pumpkin Slasher in Oranienburg - Part 2",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/345.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 7.794,
@@ -8317,7 +8317,7 @@
             "properties": {
                 "nummer": 347,
                 "title": "Beach XMas Toast in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/347.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 7.806,
@@ -8341,7 +8341,7 @@
             "properties": {
                 "nummer": 348,
                 "title": "3 Schwerter Stil in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/348.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 7.824,
@@ -8365,7 +8365,7 @@
             "properties": {
                 "nummer": 349,
                 "title": "Pet Sematary in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/349.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 7.842,
@@ -8413,7 +8413,7 @@
             "properties": {
                 "nummer": 351,
                 "title": "Crystal Snowflake Ball in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/351.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 7.878,
@@ -8437,7 +8437,7 @@
             "properties": {
                 "nummer": 352,
                 "title": "Frog Evolution in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/352.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 7.884,
@@ -8461,7 +8461,7 @@
             "properties": {
                 "nummer": 353,
                 "title": "DB in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/353.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 7.902,
@@ -8485,7 +8485,7 @@
             "properties": {
                 "nummer": 354,
                 "title": "Call Shenlong in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/354.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 7.92,
@@ -8509,7 +8509,7 @@
             "properties": {
                 "nummer": 355,
                 "title": "Moon Ball in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/355.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 7.938,
@@ -8533,7 +8533,7 @@
             "properties": {
                 "nummer": 356,
                 "title": "Skulls in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/356.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 7.944,
@@ -8557,7 +8557,7 @@
             "properties": {
                 "nummer": 357,
                 "title": "Rainbow People in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/357.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 7.956,
@@ -8581,7 +8581,7 @@
             "properties": {
                 "nummer": 358,
                 "title": "Dancing",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/358.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 7.962,
@@ -8605,7 +8605,7 @@
             "properties": {
                 "nummer": 359,
                 "title": "Kiss Toast in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/359.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 7.968,
@@ -8629,7 +8629,7 @@
             "properties": {
                 "nummer": 360,
                 "title": "Guardians of the Time in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/360.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 7.986,
@@ -8677,7 +8677,7 @@
             "properties": {
                 "nummer": 362,
                 "title": "Merry Christmas - Strasburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/362.jpg",
                 "region": "Strasburg (Uckermark)",
                 "country": "Deutschland",
                 "completed": 7.998,
@@ -8701,7 +8701,7 @@
             "properties": {
                 "nummer": 363,
                 "title": "8000 SpecOps Runde durch Strasburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/363.jpg",
                 "region": "Strasburg (Uckermark)",
                 "country": "Deutschland",
                 "completed": 8.004,
@@ -8725,7 +8725,7 @@
             "properties": {
                 "nummer": 364,
                 "title": "Feuerschwert Tour durch Strasburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/364.jpg",
                 "region": "Strasburg (Uckermark)",
                 "country": "Deutschland",
                 "completed": 8.01,
@@ -8941,7 +8941,7 @@
             "properties": {
                 "nummer": 373,
                 "title": "XMas Otter in Strasburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/373.jpg",
                 "region": "Strasburg (Uckermark)",
                 "country": "Deutschland",
                 "completed": 8.166,
@@ -8965,7 +8965,7 @@
             "properties": {
                 "nummer": 374,
                 "title": "XMas Panda in Strasburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/374.jpg",
                 "region": "Strasburg (Uckermark)",
                 "country": "Deutschland",
                 "completed": 8.172,
@@ -9109,7 +9109,7 @@
             "properties": {
                 "nummer": 380,
                 "title": "New Years Toast in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/380.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 8.262,
@@ -9133,7 +9133,7 @@
             "properties": {
                 "nummer": 381,
                 "title": "Neujahrs Runde durch Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/381.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 8.274,
@@ -9157,7 +9157,7 @@
             "properties": {
                 "nummer": 382,
                 "title": "Superhelden Toasts in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/382.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 8.28,
@@ -9229,7 +9229,7 @@
             "properties": {
                 "nummer": 385,
                 "title": "Oranienburger Toast Rangers",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/385.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 8.31,
@@ -9301,7 +9301,7 @@
             "properties": {
                 "nummer": 388,
                 "title": "Toast Run Part 1",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/388.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 8.352,
@@ -9373,7 +9373,7 @@
             "properties": {
                 "nummer": 391,
                 "title": "Toast Run Part 2",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/391.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 8.436,
@@ -9397,7 +9397,7 @@
             "properties": {
                 "nummer": 392,
                 "title": "Toast Run Part 3",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/392.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 8.46,
@@ -9469,7 +9469,7 @@
             "properties": {
                 "nummer": 395,
                 "title": "Valentintoast 1",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/395.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 8.502,
@@ -9493,7 +9493,7 @@
             "properties": {
                 "nummer": 396,
                 "title": "Second Sunday - February 2022",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/396.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 8.508,
@@ -9781,7 +9781,7 @@
             "properties": {
                 "nummer": 408,
                 "title": "Space Toast",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/408.jpg",
                 "region": "Strasburg (Uckermark)",
                 "country": "Deutschland",
                 "completed": 8.682,
@@ -9805,7 +9805,7 @@
             "properties": {
                 "nummer": 409,
                 "title": "Toast Anatomy",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/409.jpg",
                 "region": "Strasburg (Uckermark)",
                 "country": "Deutschland",
                 "completed": 8.688,
@@ -9829,7 +9829,7 @@
             "properties": {
                 "nummer": 410,
                 "title": "Happy Toastern April 2022",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/410.jpg",
                 "region": "Strasburg (Uckermark)",
                 "country": "Deutschland",
                 "completed": 8.694,
@@ -9853,7 +9853,7 @@
             "properties": {
                 "nummer": 411,
                 "title": "RetroGaming - Space Invaders",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/411.jpg",
                 "region": "Pasewalk",
                 "country": "Deutschland",
                 "completed": 8.7,
@@ -10045,7 +10045,7 @@
             "properties": {
                 "nummer": 419,
                 "title": "RetroGaming - Tetris",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/419.jpg",
                 "region": "Strasburg (Uckermark)",
                 "country": "Deutschland",
                 "completed": 8.748,
@@ -10549,7 +10549,7 @@
             "properties": {
                 "nummer": 440,
                 "title": "Adventure Toast in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/440.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 9.156,
@@ -10573,7 +10573,7 @@
             "properties": {
                 "nummer": 441,
                 "title": "Honey Bees in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/441.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 9.162,
@@ -10597,7 +10597,7 @@
             "properties": {
                 "nummer": 442,
                 "title": "World Bee Day in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/442.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 9.168,
@@ -10621,7 +10621,7 @@
             "properties": {
                 "nummer": 443,
                 "title": "Green Galaxy Men in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/443.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 9.192,
@@ -10645,7 +10645,7 @@
             "properties": {
                 "nummer": 444,
                 "title": "GalaxyMenBlue",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/444.jpg",
                 "region": "Berlin",
                 "country": "Deutschland",
                 "completed": 9.216,
@@ -10669,7 +10669,7 @@
             "properties": {
                 "nummer": 445,
                 "title": "GalaxyMenRed",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/445.jpg",
                 "region": "Berlin",
                 "country": "Deutschland",
                 "completed": 9.24,
@@ -10693,7 +10693,7 @@
             "properties": {
                 "nummer": 446,
                 "title": "2nd Sunday - May 4th be with you - Berlin",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/446.jpg",
                 "region": "Berlin",
                 "country": "Deutschland",
                 "completed": 9.246,
@@ -10717,7 +10717,7 @@
             "properties": {
                 "nummer": 447,
                 "title": "XF Cats",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/447.jpg",
                 "region": "Berlin",
                 "country": "Deutschland",
                 "completed": 9.264,
@@ -10741,7 +10741,7 @@
             "properties": {
                 "nummer": 448,
                 "title": "Catwalk Palina",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/448.jpg",
                 "region": "Berlin",
                 "country": "Deutschland",
                 "completed": 9.282,
@@ -10765,7 +10765,7 @@
             "properties": {
                 "nummer": 449,
                 "title": "Lunar New Year 2022",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/449.jpg",
                 "region": "Berlin",
                 "country": "Deutschland",
                 "completed": 9.288,
@@ -10789,7 +10789,7 @@
             "properties": {
                 "nummer": 450,
                 "title": "Toast Wars in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/450.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 9.306,
@@ -10813,7 +10813,7 @@
             "properties": {
                 "nummer": 451,
                 "title": "Furby Toast Wars in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/451.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 9.318,
@@ -10861,7 +10861,7 @@
             "properties": {
                 "nummer": 453,
                 "title": "Pinguine Tour in Oranienburg Part 2",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/453.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 9.384,
@@ -10981,7 +10981,7 @@
             "properties": {
                 "nummer": 458,
                 "title": "World Blood Donor Day 2022 - Blood Types Edition",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/458.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 9.486,
@@ -11101,7 +11101,7 @@
             "properties": {
                 "nummer": 463,
                 "title": "Samurai Crest Adventure Tour",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/463.jpg",
                 "region": "Strasburg (Uckermark)",
                 "country": "Deutschland",
                 "completed": 10.2,
@@ -11485,7 +11485,7 @@
             "properties": {
                 "nummer": 479,
                 "title": "Creepy Cupcakes in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/479.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 10.41,
@@ -11701,7 +11701,7 @@
             "properties": {
                 "nummer": 488,
                 "title": "Black Cats in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/488.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 10.506,
@@ -11725,7 +11725,7 @@
             "properties": {
                 "nummer": 489,
                 "title": "Bats in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/489.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 10.512,
@@ -11749,7 +11749,7 @@
             "properties": {
                 "nummer": 490,
                 "title": "Besenritt in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/490.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 10.53,
@@ -11773,7 +11773,7 @@
             "properties": {
                 "nummer": 491,
                 "title": "Deifel in Strasburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/491.jpg",
                 "region": "Strasburg (Uckermark)",
                 "country": "Deutschland",
                 "completed": 10.536,
@@ -11797,7 +11797,7 @@
             "properties": {
                 "nummer": 492,
                 "title": "Deifel in Neubrandenburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/492.jpg",
                 "region": "Neubrandenburg",
                 "country": "Deutschland",
                 "completed": 10.542,
@@ -12421,7 +12421,7 @@
             "properties": {
                 "nummer": 518,
                 "title": "Frog in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/518.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 10.986,
@@ -12445,7 +12445,7 @@
             "properties": {
                 "nummer": 519,
                 "title": "Evil Penguins in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/519.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 10.992,
@@ -12469,7 +12469,7 @@
             "properties": {
                 "nummer": 520,
                 "title": "Evil Bears in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/520.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 10.998,
@@ -12493,7 +12493,7 @@
             "properties": {
                 "nummer": 521,
                 "title": "Unkown in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/521.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 11.004,
@@ -12517,7 +12517,7 @@
             "properties": {
                 "nummer": 522,
                 "title": "Second Sunday in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/522.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 11.01,
@@ -12541,7 +12541,7 @@
             "properties": {
                 "nummer": 523,
                 "title": "Snowflakes in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/523.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 11.076,
@@ -12565,7 +12565,7 @@
             "properties": {
                 "nummer": 524,
                 "title": "Second Sunday Yoga Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/524.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 11.082,
@@ -12589,7 +12589,7 @@
             "properties": {
                 "nummer": 525,
                 "title": "Green Fireworks in Oranienburg",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/525.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 11.1,
@@ -12613,7 +12613,7 @@
             "properties": {
                 "nummer": 526,
                 "title": "Apfel",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/526.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 11.148,
@@ -12637,7 +12637,7 @@
             "properties": {
                 "nummer": 527,
                 "title": "Apfelschnitt",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/527.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 11.22,
@@ -12661,7 +12661,7 @@
             "properties": {
                 "nummer": 528,
                 "title": "Julia Set",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/528.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 11.292,
@@ -12685,7 +12685,7 @@
             "properties": {
                 "nummer": 529,
                 "title": "Spirale",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/529.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 11.364,
@@ -12709,7 +12709,7 @@
             "properties": {
                 "nummer": 530,
                 "title": "Stern",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/530.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 11.436,
@@ -12733,7 +12733,7 @@
             "properties": {
                 "nummer": 531,
                 "title": "Green Bloom",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/531.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 11.508,
@@ -12757,7 +12757,7 @@
             "properties": {
                 "nummer": 532,
                 "title": "Brennende Julia",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/532.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 11.58,
@@ -12781,7 +12781,7 @@
             "properties": {
                 "nummer": 533,
                 "title": "Fell-Julia",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/533.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 11.652,
@@ -12805,7 +12805,7 @@
             "properties": {
                 "nummer": 534,
                 "title": "Green Tree",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/534.jpg",
                 "region": "Oranienburg",
                 "country": "Deutschland",
                 "completed": 11.724,
@@ -12877,7 +12877,7 @@
             "properties": {
                 "nummer": 537,
                 "title": "Evil Cats",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/537.jpg",
                 "region": "Strasburg (Uckermark)",
                 "country": "Deutschland",
                 "completed": 11.838,
@@ -13261,7 +13261,7 @@
             "properties": {
                 "nummer": 553,
                 "title": "Echo Brighton",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/553.jpg",
                 "region": "Strasburg (Uckermark)",
                 "country": "Deutschland",
                 "completed": 12.264,
@@ -14173,7 +14173,7 @@
             "properties": {
                 "nummer": 591,
                 "title": "MD 2024: Porto",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/591.jpg",
                 "region": "Porto",
                 "country": "Portugal",
                 "completed": 13.074,
@@ -14245,7 +14245,7 @@
             "properties": {
                 "nummer": 594,
                 "title": "MD 2024: Budapest",
-                "picture": "N/A",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/594.jpg",
                 "region": "Budapest",
                 "country": "Magyarország",
                 "completed": 13.116,
