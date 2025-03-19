@@ -96,14 +96,14 @@ def tsv_to_geojson(input_file, output_file):
             link = bg_link.split("/")
             link = link[len(link) - 1]
             download_picture(banner_nr, link)
-            picture_path = f"https://media.githubusercontent.com/media/pommernMeg/myBannerMap/refs/heads/main/banner/{banner_nr}.jpg"
+            picture_path = f"https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/{banner_nr}.jpg"
         else:
             save_path = f"""banner/{banner_nr}.jpg"""
             if not os.path.exists(save_path):
                 need_picture_list.append(f"{banner_nr}: {get_value(row['titel'])}")
                 picture_path = "N/A"
             else:
-                picture_path = f"https://media.githubusercontent.com/media/pommernMeg/myBannerMap/refs/heads/main/banner/{banner_nr}.jpg"
+                picture_path = f"https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/{banner_nr}.jpg"
 
         feature = {
             "type": "Feature",
