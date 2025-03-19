@@ -33,36 +33,17 @@ def download_image_from_url(page_url, save_path):
         return False
     
     try:
-        # Webseite abrufen
-        response = requests.get(page_url, timeout=10)
-        response.raise_for_status()
-        
-        # HTML mit BeautifulSoup parsen
-        from bs4 import BeautifulSoup
-        from urllib.parse import urljoin
-        
-        soup = BeautifulSoup(response.text, 'html.parser')
-        
-        # Erstes Bild-Tag (<img>) finden
-        img_tag = soup.find("img")
-        if not img_tag or not img_tag.get("src"):
-            print("Kein Bild gefunden.")
-            return False
-        
-        # Absoluten Bildlink erstellen
-        img_url = urljoin(page_url, img_tag["src"])
-        
-        # Bild abrufen
-        img_response = requests.get(img_url, stream=True, timeout=10)
-        img_response.raise_for_status()
-        
-        # Bild speichern
-        with open(save_path, 'wb') as file:
-            for chunk in img_response.iter_content(1024):
-                file.write(chunk)
-        
-        print(f"Bild gespeichert unter: {save_path}")
-        return True
+        # Anfrage an die URL senden
+        response = requests.get(page_url, timeout=15)
+
+        # Prüfen, ob der Request erfolgreich war
+        if response.status_code == 200:
+            # Datei lokal speichern
+            with open(save_path, 'wb') as f:
+                f.write(response.content)
+        else:
+            print(f"Fehler beim Download des Bildes: Statuscode {response.status_code}")
+                # Webseite abrufen
     except requests.RequestException as e:
         print(f"Fehler beim Abrufen der URL: {e}")
         return False

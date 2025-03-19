@@ -13150,7 +13150,7 @@
                 "date": 2023,
                 "bg_link": "https://bannergress.com/banner/mzfpk-birkenwerder-20c4",
                 "description": "Erkunde Birkenwerder zum MZFPK am 18.März Builder.Enginer-Hacker-Purifier-Translator-Trekker",
-                "length_km": 926.0
+                "length_km": 0.926
             }
         },
         {
@@ -14180,7 +14180,7 @@
                 "missions": 6,
                 "category": 6,
                 "date": 2024,
-                "bg_link": "N/A",
+                "bg_link": "https://bannergress.com/banner/md-2024-porto-504c",
                 "description": "N/A",
                 "length_km": "N/A"
             }
@@ -14252,7 +14252,7 @@
                 "missions": 6,
                 "category": 6,
                 "date": 2024,
-                "bg_link": "N/A",
+                "bg_link": "https://bannergress.com/banner/md-2024-budapest-6bc9",
                 "description": "N/A",
                 "length_km": "N/A"
             }
@@ -14422,7 +14422,7 @@
                 "date": 2024,
                 "bg_link": "https://bannergress.com/banner/conillets-cdf4",
                 "description": "Chase these hot rabbits while you walk through the historic center of Valencia streets",
-                "length_km": 957.0
+                "length_km": 0.957
             }
         },
         {
@@ -14615,6 +14615,30 @@
                 "bg_link": "https://bannergress.com/banner/marx-is-calling-you-neubrandenburg-459a",
                 "description": "+Theta Chemnitz is coming! Explore a city in transformation from industrial heritage and stunning architecture to cultural diversity. As ECoC 2025, Chemnitz invites you to C the Unseen!",
                 "length_km": 1.366
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.259266,
+                    53.561265
+                ]
+            },
+            "properties": {
+                "nummer": 610,
+                "title": "Playing Frogs NB",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/610.jpg",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 13.362,
+                "missions": 24,
+                "category": 24,
+                "date": 2025,
+                "bg_link": "https://bannergress.com/banner/playing-frogs-nb-2fed",
+                "description": "Diese Missionen führen entlang des Strandbads Brodas und dem Kulturpark von Neubrandenburg. Entdecke dabei auch die zahlreichen Skulpturen im Kulturpark.",
+                "length_km": 6.965
             }
         }
     ]
