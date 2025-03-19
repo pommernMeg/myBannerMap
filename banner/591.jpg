@@ -1,8 +1,8 @@
 version https://git-lfs.github.com/spec/v1
 <<<<<<< HEAD
+oid sha256:bf1648c4f91ba08f8c59001bf4bf095e6b046f449e6361d6301c426209b498e0
+size 272
+=======
 oid sha256:8a31a03585605cf735bd20176f28ca84de53fed4157ad6f0c3f9287db6595a8e
 size 101282
-=======
-oid sha256:c04f8305ae35c2ee4a119d3dc3400e0c51ccdd48211141943975f6f904f844b6
-size 43505
->>>>>>> 488118d (update the map)
+>>>>>>> a9125c4 (update)
