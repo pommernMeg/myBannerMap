@@ -1,0 +1,3557 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74885,
+                    53.506861
+                ]
+            },
+            "properties": {
+                "nummer": 463,
+                "title": "Samurai Crest Adventure Tour",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/463.jpg",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 642,
+                "category": 642,
+                "date": 2022,
+                "bg_link": "N/A",
+                "description": "Starte deine Samurai Crests Adeventure Tour in der Stadt Strasburg Uckermark und entdecke auf deiner Runde historische Gebäude und Sehenswürdigkeiten. Die Runde endet am",
+                "length_km": 277.36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.583411,
+                    53.459171
+                ]
+            },
+            "properties": {
+                "nummer": 464,
+                "title": "Entdeckungstour durch Woldgek",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/464.jpg",
+                "region": "Woldegk",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 18,
+                "category": 18,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/entdeckungstour-durch-woldgek-10c0",
+                "description": "Starte am Marktplatz und entdecke die Windmühlenstadt Woldegek. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte",
+                "length_km": 8.602
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.745734,
+                    53.507239
+                ]
+            },
+            "properties": {
+                "nummer": 465,
+                "title": "The Show Must Go On in Strasburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/465.jpg",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/the-show-must-go-on-in-strasburg-2d82",
+                "description": "Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz ",
+                "length_km": 3.514
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.261756,
+                    53.561402
+                ]
+            },
+            "properties": {
+                "nummer": 466,
+                "title": "Belvedere",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/466.jpg",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 24,
+                "category": 24,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/belvedere-a96b",
+                "description": "Die Route führt durch das Herz von Neubrandenburg (Innenstadt, Kulturpark und Belvedere)",
+                "length_km": 8.447
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26025,
+                    53.557736
+                ]
+            },
+            "properties": {
+                "nummer": 467,
+                "title": "Millenium Falke",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/467.jpg",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 18,
+                "category": 18,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/millenium-falke-f37e",
+                "description": "Die Missionen führen dich vom Markplatz direkt in den Kulturpark von Neubrandenburg. Erlebe dabei den wunderschönen Tollensesee und die Strände.",
+                "length_km": 6.455
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.382241,
+                    52.516326
+                ]
+            },
+            "properties": {
+                "nummer": 468,
+                "title": "Dandelion",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/468.jpg",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 24,
+                "category": 24,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/dandelion-fb81",
+                "description": "Start at Brandenburger Tor for a short tour through the center of Berlin & discover some of the popular places & squares on the way to Rotes Rathaus. Pass the Bebelplatz, Nikoleikirche & Museumsinsel",
+                "length_km": 6.767
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.407982,
+                    52.519115
+                ]
+            },
+            "properties": {
+                "nummer": 469,
+                "title": "Little Dandelion",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/469.jpg",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 18,
+                "category": 18,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/little-dandelion-5070",
+                "description": "Start at Rotes Rathaus for a short tour through the center of Berlin & discover some of the popular places & squares on the way to Alexanderplatz and pass Hackescher Markt and Volksbühne on your way.",
+                "length_km": 5.085
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.410959,
+                    52.516541
+                ]
+            },
+            "properties": {
+                "nummer": 470,
+                "title": "I amsterdam",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/470.jpg",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/i-amsterdam-d54e",
+                "description": "Hacke Portale im Umkreis der Niederländischen Botschaft.",
+                "length_km": 1.694
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.497454,
+                    52.50885
+                ]
+            },
+            "properties": {
+                "nummer": 471,
+                "title": "Cat Eyes Green",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/471.jpg",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/cat-eyes-green-bd57",
+                "description": "Dieses Banner ist die zweite Farbe von insgesamt 6.  Sie startet und Endet am S+U Lichtenberg.  Als Passphrase wird jedweils die aktuelle Missionsnummer abgefragt  This banner is the second colour of a total of 6.  It starts and ends at S+U Lichtenberg.  The passphrases are only asking for the current mission number.",
+                "length_km": 2.258
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.497382,
+                    52.509237
+                ]
+            },
+            "properties": {
+                "nummer": 472,
+                "title": "Catwalk VI",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/472.jpg",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 18,
+                "category": 18,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/catwalk-vi-87a3",
+                "description": "Begleite den Kater auf seinem Entdeckungsstreifzug vom S+U Lichtenberg nach Friedrichsfelde und dort im Bogen durch den Weitlingkiez zurück zu seinem Ausgangspunkt.",
+                "length_km": 6.875
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.497454,
+                    52.50885
+                ]
+            },
+            "properties": {
+                "nummer": 473,
+                "title": "Cat Eye Yellow",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/473.jpg",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/cat-eye-yellow-9d73",
+                "description": "Dieses Banner ist die sechste Farbe von insgesamt 6.  Sie startet und Endet am S+U Lichtenberg.  Als Passphrase wird jedweils die aktuelle Missionsnummer abgefragt  This banner is the sixth of a total of 6.  It starts and ends at S+U Lichtenberg.  The passphrases are only asking for the current mission number.",
+                "length_km": 2.258
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.497454,
+                    52.50885
+                ]
+            },
+            "properties": {
+                "nummer": 474,
+                "title": "Catwalk 7",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/474.jpg",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 18,
+                "category": 18,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/catwalk-7-aecd",
+                "description": "Begleite den Kater auf seinem Entdeckungsstreifzug vom S+U Lichtenberg nach Friedrichsfelde und dort im Bogen durch den Weitlingkiez zurück zu seinem Ausgangspunkt.",
+                "length_km": 6.875
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.497454,
+                    52.50885
+                ]
+            },
+            "properties": {
+                "nummer": 475,
+                "title": "Cat Eyes Red",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/475.jpg",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/cat-eyes-red-31ed",
+                "description": "Dieses Banner ist die vierte Farbe von insgesamt 6.  Sie startet und Endet am S+U Lichtenberg.  Als Passphrase wird jedweils die aktuelle Missionsnummer abgefragt  This banner is the fourth colour of a total of 6.  It starts and ends at S+U Lichtenberg.  The passphrases are only asking for the current mission number.",
+                "length_km": 2.258
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.244588,
+                    52.756318
+                ]
+            },
+            "properties": {
+                "nummer": 476,
+                "title": "Spooky Second Sunday - Oktober 2022",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/476.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/spooky-second-sunday-oktober-2022-b212",
+                "description": "Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.",
+                "length_km": 1.599
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.244588,
+                    52.756318
+                ]
+            },
+            "properties": {
+                "nummer": 477,
+                "title": " From the Grave in Oranienburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/477.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 24,
+                "category": 24,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/from-the-grave-in-oranienburg-1694",
+                "description": "Starte in der Bernauer Straße eine Entdeckungstour durch Oranienburg entdecke auf deiner Runde Sehenswürdigkeiten wie das Schloss und andere Denkmäler. Es geht entlang der Havel zurück zum Bahnhof.",
+                "length_km": 8.961
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.244588,
+                    52.756318
+                ]
+            },
+            "properties": {
+                "nummer": 478,
+                "title": "Spooky Green Second Sunday in Oranienburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/478.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/spooky-green-second-sunday-in-oranienburg-9faa",
+                "description": "Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.",
+                "length_km": 1.599
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.244588,
+                    52.756318
+                ]
+            },
+            "properties": {
+                "nummer": 479,
+                "title": "Creepy Cupcakes in Oranienburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/479.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2022,
+                "bg_link": "N/A",
+                "description": "Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.",
+                "length_km": 1.599
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.244588,
+                    52.756318
+                ]
+            },
+            "properties": {
+                "nummer": 480,
+                "title": "Halloween Coffees in Oranienburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/480.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/halloween-coffees-in-oranienburg-c369",
+                "description": "Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.",
+                "length_km": 1.599
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.244588,
+                    52.756318
+                ]
+            },
+            "properties": {
+                "nummer": 481,
+                "title": "Halloween Ghosts in Oranienburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/481.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/halloween-ghosts-in-oranienburg-b9e6",
+                "description": "Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.",
+                "length_km": 1.599
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.244588,
+                    52.756318
+                ]
+            },
+            "properties": {
+                "nummer": 482,
+                "title": "Second Sunday - Oktober 2022",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/482.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/second-sunday-oktober-2022-0afa",
+                "description": "Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.",
+                "length_km": 1.599
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.244588,
+                    52.756318
+                ]
+            },
+            "properties": {
+                "nummer": 483,
+                "title": "Rammbock in Oranienburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/483.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/rammbock-in-oranienburg-1b23",
+                "description": "Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.",
+                "length_km": 1.599
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43469,
+                    52.509603
+                ]
+            },
+            "properties": {
+                "nummer": 484,
+                "title": "Berghain Mosaik",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/484.jpg",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 18,
+                "category": 18,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/berghain-mosaik-2102",
+                "description": "Praising the glorious techno club you take a walk through it's neighborhood.  You will get some further information about Berghain during your trip.",
+                "length_km": 6.629
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45299,
+                    52.516466
+                ]
+            },
+            "properties": {
+                "nummer": 485,
+                "title": "Ägyptisches Totengericht",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/485.jpg",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 18,
+                "category": 18,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/%C3%A4gyptisches-totengericht-17af",
+                "description": "Betritt die Halle der vollständigen Wahrheit und lasse dein Herz wiegen.",
+                "length_km": 6.278
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45134,
+                    52.50834
+                ]
+            },
+            "properties": {
+                "nummer": 486,
+                "title": "Northern Legends",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/486.jpg",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/northern-legends-5c88",
+                "description": "Follow your path through the neighborhood of Friedrichshain.",
+                "length_km": 1.259
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.370185,
+                    52.525545
+                ]
+            },
+            "properties": {
+                "nummer": 487,
+                "title": "TUUT 2017",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/487.jpg",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 24,
+                "category": 24,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/tuut-2017-32b4",
+                "description": "TUUT - Ein Mosaik vom Berliner Hauptbahnhof bis zum Anhalter Bahnhof, das sich in einem Zug erledigen lässt.",
+                "length_km": 6.516
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.244588,
+                    52.756318
+                ]
+            },
+            "properties": {
+                "nummer": 488,
+                "title": "Black Cats in Oranienburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/488.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2022,
+                "bg_link": "N/A",
+                "description": "Starte eine kleine Entdeckungsrunde durch Oranienburg. Die Runde startet und endet in der Bernauer Straße.",
+                "length_km": 1.259
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.245295,
+                    52.756491
+                ]
+            },
+            "properties": {
+                "nummer": 489,
+                "title": "Bats in Oranienburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/489.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2022,
+                "bg_link": "N/A",
+                "description": "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße",
+                "length_km": 1.259
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.245295,
+                    52.756491
+                ]
+            },
+            "properties": {
+                "nummer": 490,
+                "title": "Besenritt in Oranienburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/490.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 18,
+                "category": 18,
+                "date": 2022,
+                "bg_link": "N/A",
+                "description": "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße",
+                "length_km": 6.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74885,
+                    53.506861
+                ]
+            },
+            "properties": {
+                "nummer": 491,
+                "title": "Deifel in Strasburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/491.jpg",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2022,
+                "bg_link": "N/A",
+                "description": "Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz ",
+                "length_km": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.266924,
+                    53.558018
+                ]
+            },
+            "properties": {
+                "nummer": 492,
+                "title": "Deifel in Neubrandenburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/492.jpg",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2022,
+                "bg_link": "N/A",
+                "description": "Starte am Rathaus einen Rundgang und entdecke Neubrandenburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz ",
+                "length_km": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.245295,
+                    52.756491
+                ]
+            },
+            "properties": {
+                "nummer": 493,
+                "title": "Mein grüner Kaktus in Oranienburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/493.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 18,
+                "category": 18,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/mein-gr%C3%BCner-kaktus-in-oranienburg-fa23",
+                "description": "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße",
+                "length_km": 8.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.959376,
+                    50.943451
+                ]
+            },
+            "properties": {
+                "nummer": 494,
+                "title": "Deifel in Köln",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/494.jpg",
+                "region": "Köln",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/deifel-in-k%C3%B6ln-7270",
+                "description": "Starte am Hauptbahnhof einen Rundgang und entdecke Köln. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten, historische Orte und den Kölner Dom. Die Runde endet am Hansaring ",
+                "length_km": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.958069,
+                    50.942198
+                ]
+            },
+            "properties": {
+                "nummer": 495,
+                "title": "Dom-Panorama",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/495.jpg",
+                "region": "Köln",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 24,
+                "category": 24,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/dom-panorama-06e2",
+                "description": "Diese Mission führt an der Nordseite des Doms vorbei. Alle 24 Missionen ergeben ein Panoramabild von Dom und Hohenzollernbrücke.",
+                "length_km": 6.941
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.933925,
+                    50.933153
+                ]
+            },
+            "properties": {
+                "nummer": 496,
+                "title": "Sushi Sonntag",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/496.jpg",
+                "region": "Köln",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 12,
+                "category": 12,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/sushi-sonntag-781c",
+                "description": "Zu den neuen Second Sundays Mission Days passt dieses Sushi Sonntag Banner. Auf der Strecke liegen mehrere Sushi Restaurants, aber hier findet man für jeden Geschmack etwas.",
+                "length_km": 3.283
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.958304,
+                    50.925167
+                ]
+            },
+            "properties": {
+                "nummer": 497,
+                "title": "Fischbrötchenbanner",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/497.jpg",
+                "region": "Köln",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/fischbr%C3%B6tchenbanner-09da",
+                "description": "Schnapp dir ein Fischbrötchen deiner Wahl. Köln erstes Fischbrötchenbanner startet bei Fisch Hembsch, einem Familienbetrieb mit über 120 Jahren Tradition. Immer geradeaus gelangst du am Eigelstein zum Reefhouse. Ein sehr gutes Fischrestaurant welches auch Fischbrötchen und Backfisch anbietet. Am Ende des Banners liegt das Pescado. Hier gibt es die Luxusvariante des Fischbrötchen. Absolut empfehlenswert!",
+                "length_km": 3.235
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.098962,
+                    50.944624
+                ]
+            },
+            "properties": {
+                "nummer": 498,
+                "title": "Green Phoenix",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/498.jpg",
+                "region": "Bergisch Gladbach",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 60,
+                "category": 60,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/green-phoenix-736c",
+                "description": "Willkommen im Wildpark Brück. Entdecke bei 60 Missionen die Vielfalt des Waldes.",
+                "length_km": 3.096
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.956613,
+                    50.941403
+                ]
+            },
+            "properties": {
+                "nummer": 499,
+                "title": "Froschweg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/499.jpg",
+                "region": "Köln",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 12,
+                "category": 12,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/froschweg-a707",
+                "description": "Durch die kleinen Gassen von Köln",
+                "length_km": 2.81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.933796,
+                    50.943701
+                ]
+            },
+            "properties": {
+                "nummer": 500,
+                "title": "Narrenkappe",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/500.jpg",
+                "region": "Köln",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 24,
+                "category": 24,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/narrenkappe-f124",
+                "description": "Take a walk around Koeln-Ehrenfeld. This district is known for its variety of street art.",
+                "length_km": 9.984
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.938444,
+                    50.939974
+                ]
+            },
+            "properties": {
+                "nummer": 501,
+                "title": "Dragon Moon ",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/501.jpg",
+                "region": "Köln",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 24,
+                "category": 24,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/dragon-moon-2e05",
+                "description": "Dragon Moon Visit and hack following portals  Your journey takes you along the districts Neustadt Nord and Süd (Passwords are the missions rank number)",
+                "length_km": 7.909
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.956972,
+                    50.941286
+                ]
+            },
+            "properties": {
+                "nummer": 502,
+                "title": "Richter Fenster im Kölner Dom",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/502.jpg",
+                "region": "Köln",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 18,
+                "category": 18,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/richter-fenster-im-k%C3%B6lner-dom-7363",
+                "description": "Richter-Fenster ist das von Richter entworfene Südquerhausfenster des Kölner Doms. Richter window is the southern transverse window of the Cologne Cathedral, designed by the artist named Richter.",
+                "length_km": 4.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.79448,
+                    51.220016
+                ]
+            },
+            "properties": {
+                "nummer": 503,
+                "title": "Deifel in Düsseldorf",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/503.jpg",
+                "region": "Düsseldorf",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/deifel-in-d%C3%BCsseldorf-0642",
+                "description": "Starte am Hauptbahnhof einen Rundgang und entdecke Düsseldorf. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet wieder am Hauptbahnhof",
+                "length_km": 4.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.771298,
+                    51.253636
+                ]
+            },
+            "properties": {
+                "nummer": 504,
+                "title": "Find the Alien ",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/504.jpg",
+                "region": "Düsseldorf",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 24,
+                "category": 24,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/find-the-alien-90f6",
+                "description": "Willkommen auf dem Düsseldorfer Nordfriedhof. Nachdem hier schon die Borg gesichtet worden sind,  gibt es starke Anzeichen dass es hier auch Aliens gibt. Folge der Route in der richtigen Reihenfolge!",
+                "length_km": 5.541
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.788523,
+                    51.228083
+                ]
+            },
+            "properties": {
+                "nummer": 505,
+                "title": "Hacktour DUS",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/505.jpg",
+                "region": "Düsseldorf",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/hacktour-dus-6e84",
+                "description": "N/A",
+                "length_km": 2.309
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.77382,
+                    51.225923
+                ]
+            },
+            "properties": {
+                "nummer": 506,
+                "title": "Harmony & Unity",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/506.jpg",
+                "region": "Düsseldorf",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 36,
+                "category": 36,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/harmony-unity-9905",
+                "description": "Genieße diese kleine Runde durch die Düsseldorfer Altstadt und freu dich auf ein tolles Mosaik für beide Fraktionen. Im Anschluss solltest Du die Missionsreihe \"Unity\" absolvieren. Viel Spaß !",
+                "length_km": 8.405
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.149983,
+                    51.25423
+                ]
+            },
+            "properties": {
+                "nummer": 507,
+                "title": "Deifel in Wuppertal",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/507.jpg",
+                "region": "Wuppertal",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/deifel-in-wuppertal-5ea7",
+                "description": "Starte am Hauptbahnhof einen Rundgang und entdecke Wuppertal. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet wieder am Hauptbahnhof",
+                "length_km": 1.323
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.145203,
+                    51.260319
+                ]
+            },
+            "properties": {
+                "nummer": 508,
+                "title": "Elberfeld im Schneckentempo",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/508.jpg",
+                "region": "Wuppertal",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 12,
+                "category": 12,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/elberfeld-im-schneckentempo-82c3",
+                "description": "Eine gemütliche Runde durch den Stadtbezirk Elberfeld der Stadt Wuppertal.",
+                "length_km": 2.828
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.148301,
+                    51.25571
+                ]
+            },
+            "properties": {
+                "nummer": 509,
+                "title": "Victory of Joker",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/509.jpg",
+                "region": "Wuppertal",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 24,
+                "category": 24,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/victory-of-joker-bbb4",
+                "description": "Capture die Innenstadt von Wuppertal/Elberfeld. Am besten bringst du viele burster mit und ein wenig zeit. Die Mission wird dich durch Elberfeld zum Luisenviertel führen. viel Spaß :D",
+                "length_km": 6.081
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.145981,
+                    51.255334
+                ]
+            },
+            "properties": {
+                "nummer": 510,
+                "title": "A fantasy Icon",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/510.jpg",
+                "region": "Wuppertal",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 18,
+                "category": 18,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/a-fantasy-icon-7e9d",
+                "description": "At last, Sir Terry we must walk together A tribute mission through Wuppertal  With pretty hard questions. If you need help contact @ElliOpp via telegram.",
+                "length_km": 3.869
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.097646,
+                    50.732038
+                ]
+            },
+            "properties": {
+                "nummer": 511,
+                "title": "Deifel in Bonn",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/511.jpg",
+                "region": "Bonn",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/deifel-in-bonn-c2e4",
+                "description": "Starte am Hauptbahnhof einen Rundgang und entdecke Wuppertal. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet wieder am Hauptbahnhof",
+                "length_km": 3.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.097059,
+                    50.732331
+                ]
+            },
+            "properties": {
+                "nummer": 512,
+                "title": "Feldzug durch Bonn",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/512.jpg",
+                "region": "Bonn",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 18,
+                "category": 18,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/feldzug-durch-bonn-8bf0",
+                "description": "Diese Missionsreihe führt durch Bonn. Vom Hauptbahnhof über den alten Friedhof und wieder zurück.",
+                "length_km": 3.806
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.104341,
+                    50.73647
+                ]
+            },
+            "properties": {
+                "nummer": 513,
+                "title": "Night Bonn",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/513.jpg",
+                "region": "Bonn",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 18,
+                "category": 18,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/night-bonn-26dc",
+                "description": "Walking in the city center",
+                "length_km": 4.149
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.095997,
+                    50.741751
+                ]
+            },
+            "properties": {
+                "nummer": 514,
+                "title": "Cherry Blossom",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/514.jpg",
+                "region": "Bonn",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 24,
+                "category": 24,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/cherry-blossom-7cc3",
+                "description": "Welcome to Bonn! Have a great time and enjoy the Cherry Blossom.",
+                "length_km": 5.954
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.306116,
+                    52.505506
+                ]
+            },
+            "properties": {
+                "nummer": 515,
+                "title": "Banksy - Stop and Search",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/515.jpg",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 24,
+                "category": 24,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/banksy-stop-and-search-a9d5",
+                "description": "Banksy, an English artist and sprayer, has advocated for peace as early as the 90s. His art has inspired many generations and hopefully will do so in the future. Over the course of these missions, you will be lead through one of the most capitalistic streets in Berlin, the Kurfürstendamm. Start and end is a mural at S Charlottenburg. Enjoy your trip!  --------------------------------------------------------------------------  All credit goes to Banksy. ly <3",
+                "length_km": 6.987
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.303693,
+                    52.502456
+                ]
+            },
+            "properties": {
+                "nummer": 516,
+                "title": "MD 2022: Stolpersteine, Berlin",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/516.jpg",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/md-2022-stolpersteine-berlin-0d29",
+                "description": "Part of MD 2022: Stolpersteine",
+                "length_km": 2.946
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.745734,
+                    53.507239
+                ]
+            },
+            "properties": {
+                "nummer": 517,
+                "title": "Grüne Tour durch Strasburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/517.jpg",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2022,
+                "bg_link": "https://bannergress.com/banner/gr%C3%BCne-tour-durch-strasburg-5081",
+                "description": "Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz ",
+                "length_km": 3.514
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.245295,
+                    52.756491
+                ]
+            },
+            "properties": {
+                "nummer": 518,
+                "title": "Frog in Oranienburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/518.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "N/A",
+                "description": "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße",
+                "length_km": 1.29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.245295,
+                    52.756491
+                ]
+            },
+            "properties": {
+                "nummer": 519,
+                "title": "Evil Penguins in Oranienburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/519.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "N/A",
+                "description": "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße",
+                "length_km": 1.29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.245295,
+                    52.756491
+                ]
+            },
+            "properties": {
+                "nummer": 520,
+                "title": "Evil Bears in Oranienburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/520.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "N/A",
+                "description": "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße",
+                "length_km": 1.29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.245295,
+                    52.756491
+                ]
+            },
+            "properties": {
+                "nummer": 521,
+                "title": "Unkown in Oranienburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/521.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 1104,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "N/A",
+                "description": "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße",
+                "length_km": 1.29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.245295,
+                    52.756491
+                ]
+            },
+            "properties": {
+                "nummer": 522,
+                "title": "Second Sunday in Oranienburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/522.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 111,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "N/A",
+                "description": "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße",
+                "length_km": 1.29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.244983,
+                    52.756645
+                ]
+            },
+            "properties": {
+                "nummer": 523,
+                "title": "Snowflakes in Oranienburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/523.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 1176,
+                "missions": 66,
+                "category": 66,
+                "date": 2023,
+                "bg_link": "N/A",
+                "description": "Starte eine Runde durch Oranienburg zum Second Sunday und denke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg",
+                "length_km": 17.7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.244983,
+                    52.756645
+                ]
+            },
+            "properties": {
+                "nummer": 524,
+                "title": "Second Sunday Yoga Oranienburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/524.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 1182,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "N/A",
+                "description": "Starte eine Runde durch Oranienburg zum Second Sunday und denke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg",
+                "length_km": 1.29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.244588,
+                    52.756318
+                ]
+            },
+            "properties": {
+                "nummer": 525,
+                "title": "Green Fireworks in Oranienburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/525.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 18,
+                "category": 18,
+                "date": 2023,
+                "bg_link": "N/A",
+                "description": "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße",
+                "length_km": 5.7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.244983,
+                    52.756645
+                ]
+            },
+            "properties": {
+                "nummer": 526,
+                "title": "Apfel",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/526.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 48,
+                "category": 48,
+                "date": 2023,
+                "bg_link": "N/A",
+                "description": "Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße",
+                "length_km": 12.88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.244983,
+                    52.756645
+                ]
+            },
+            "properties": {
+                "nummer": 527,
+                "title": "Apfelschnitt",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/527.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 72,
+                "category": 72,
+                "date": 2023,
+                "bg_link": "N/A",
+                "description": "Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße",
+                "length_km": 19.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.244983,
+                    52.756645
+                ]
+            },
+            "properties": {
+                "nummer": 528,
+                "title": "Julia Set",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/528.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 72,
+                "category": 72,
+                "date": 2023,
+                "bg_link": "N/A",
+                "description": "Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße",
+                "length_km": 19.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.244983,
+                    52.756645
+                ]
+            },
+            "properties": {
+                "nummer": 529,
+                "title": "Spirale",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/529.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 72,
+                "category": 72,
+                "date": 2023,
+                "bg_link": "N/A",
+                "description": "Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße",
+                "length_km": 19.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.244983,
+                    52.756645
+                ]
+            },
+            "properties": {
+                "nummer": 530,
+                "title": "Stern",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/530.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 72,
+                "category": 72,
+                "date": 2023,
+                "bg_link": "N/A",
+                "description": "Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße",
+                "length_km": 19.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.244983,
+                    52.756645
+                ]
+            },
+            "properties": {
+                "nummer": 531,
+                "title": "Green Bloom",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/531.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 72,
+                "category": 72,
+                "date": 2023,
+                "bg_link": "N/A",
+                "description": "Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße",
+                "length_km": 19.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.244983,
+                    52.756645
+                ]
+            },
+            "properties": {
+                "nummer": 532,
+                "title": "Brennende Julia",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/532.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 72,
+                "category": 72,
+                "date": 2023,
+                "bg_link": "N/A",
+                "description": "Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße",
+                "length_km": 19.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.244983,
+                    52.756645
+                ]
+            },
+            "properties": {
+                "nummer": 533,
+                "title": "Fell-Julia",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/533.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 72,
+                "category": 72,
+                "date": 2023,
+                "bg_link": "N/A",
+                "description": "Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße",
+                "length_km": 19.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.244983,
+                    52.756645
+                ]
+            },
+            "properties": {
+                "nummer": 534,
+                "title": "Green Tree",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/534.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 72,
+                "category": 72,
+                "date": 2023,
+                "bg_link": "N/A",
+                "description": "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße",
+                "length_km": 19.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.244588,
+                    52.756318
+                ]
+            },
+            "properties": {
+                "nummer": 535,
+                "title": "Green Surfer  in Oranienburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/535.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 18,
+                "category": 18,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/green-surfer-in-oranienburg-edb1",
+                "description": "Starte eine Runde durch Oranienburg. Die Tour beginnt in der Bernauer Straße",
+                "length_km": 5.54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.244983,
+                    52.756645
+                ]
+            },
+            "properties": {
+                "nummer": 536,
+                "title": "Green Wolf in Oranienburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/536.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 78,
+                "category": 78,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/green-wolf-in-oranienburg-d822",
+                "description": "Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße",
+                "length_km": 17.927
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74885,
+                    53.506861
+                ]
+            },
+            "properties": {
+                "nummer": 537,
+                "title": "Evil Cats",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/537.jpg",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 18,
+                "category": 18,
+                "date": 2023,
+                "bg_link": "N/A",
+                "description": "Beginne eine Runde durch Strasburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Strasburg. Starte in der Schulstraße",
+                "length_km": 6.36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.261834,
+                    53.558893
+                ]
+            },
+            "properties": {
+                "nummer": 538,
+                "title": "Schauspielhaus",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/538.jpg",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 24,
+                "category": 24,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/schauspielhaus-a53c",
+                "description": "Das Schauspielhaus befindet sich im Zentrum von Neubrandenburg. Es ist das älteste erhaltene Theater von Mecklenburg Vorpommern.",
+                "length_km": 5.061
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.261232,
+                    53.56027
+                ]
+            },
+            "properties": {
+                "nummer": 539,
+                "title": "Second Sunday Tower in Neubrandenburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/539.jpg",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 96,
+                "category": 96,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/second-sunday-tower-in-neubrandenburg-ca2b",
+                "description": "Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Neubrandenburg. Starte am Bahnhof deine Runde",
+                "length_km": 5.756
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.259574,
+                    53.56603
+                ]
+            },
+            "properties": {
+                "nummer": 540,
+                "title": "Second Sunday",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/540.jpg",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/second-sunday-2075",
+                "description": "Second Sunday im Oktober 2022 in Neubrandenburg",
+                "length_km": 2.132
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74885,
+                    53.506861
+                ]
+            },
+            "properties": {
+                "nummer": 541,
+                "title": "Second Sunday Cat",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/541.jpg",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 24,
+                "category": 24,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/second-sunday-cat-226f",
+                "description": "Beginne eine Runde durch Strasburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Strasburg. Starte in der Schulstraße",
+                "length_km": 8.511
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.746105,
+                    53.507919
+                ]
+            },
+            "properties": {
+                "nummer": 542,
+                "title": "Space Cats in Strasburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/542.jpg",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/space-cats-in-strasburg-bacf",
+                "description": "Beginne eine Runde durch Strasburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Strasburg. Starte in der Schulstraße",
+                "length_km": 1.047
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.746105,
+                    53.507919
+                ]
+            },
+            "properties": {
+                "nummer": 543,
+                "title": "A Second Sunday Cat Paws in Strasburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/543.jpg",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 12,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/a-second-sunday-cat-paws-in-strasburg-9199",
+                "description": "Beginne eine Runde durch Strasburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Strasburg. Starte in der Schulstraße",
+                "length_km": 1.047
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26129,
+                    53.556959
+                ]
+            },
+            "properties": {
+                "nummer": 544,
+                "title": "Frog in Neubrandenburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/544.jpg",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 1236,
+                "missions": 36,
+                "category": 36,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/frog-in-neubrandenburg-8380",
+                "description": "Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde die Sehenswürdigkeiten und Denkmäler der Stadt.",
+                "length_km": 3.013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.244983,
+                    52.756645
+                ]
+            },
+            "properties": {
+                "nummer": 545,
+                "title": "FrogVersum in Oranienburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/545.jpg",
+                "region": "Oranienburg",
+                "country": "Deutschland",
+                "completed": 1272,
+                "missions": 36,
+                "category": 36,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/frogversum-in-oranienburg-c78b",
+                "description": "Beginne eine Runde durch Oranienburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Oranienburg. Starte in der Bernauer Straße",
+                "length_km": 9.631
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.924143,
+                    50.8357
+                ]
+            },
+            "properties": {
+                "nummer": 546,
+                "title": "Do(o)m's Cat",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/546.jpg",
+                "region": "Chemnitz",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 48,
+                "category": 48,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/do-o-m-s-cat-1b2d",
+                "description": "Explore Chemnitz Downtown while collecting the pieces of this Do(o)mCat",
+                "length_km": 18.487
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.396471,
+                    52.537376
+                ]
+            },
+            "properties": {
+                "nummer": 547,
+                "title": "I am Frog",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/547.jpg",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/i-am-frog-6e5f",
+                "description": "Walk along the Mauerpark on the edge between West and East Berlin",
+                "length_km": 2.756
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.282528,
+                    52.687011
+                ]
+            },
+            "properties": {
+                "nummer": 548,
+                "title": "MZFPK-Birkenwerder",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/548.jpg",
+                "region": "Birkenwerder",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/mzfpk-birkenwerder-20c4",
+                "description": "Erkunde Birkenwerder zum MZFPK am 18.März Builder.Enginer-Hacker-Purifier-Translator-Trekker",
+                "length_km": 0.926
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.275572,
+                    52.68692
+                ]
+            },
+            "properties": {
+                "nummer": 549,
+                "title": "Kirche in Birkenwerder",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/549.jpg",
+                "region": "Birkenwerder",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 42,
+                "category": 42,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/kirche-in-birkenwerder-c60b",
+                "description": "Beginne eine Runde durch Birkenwerder und entdecke auf deiner Runde die Wassertretanlage in der Briese. Starte am Briesesteig deine Runde",
+                "length_km": 7.026
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.745734,
+                    53.507239
+                ]
+            },
+            "properties": {
+                "nummer": 550,
+                "title": "Moutain Dragon in Strasburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/550.jpg",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/moutain-dragon-in-strasburg-66e0",
+                "description": "Starte am Marktplatz  einen Rundgang und entdecke Strasburg. Auf deinem Abenteuer entdeckst du Sehenswürdigkeiten und historische Orte. Die Runde endet auf dem Marktplatz ",
+                "length_km": 3.514
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26112,
+                    53.55268
+                ]
+            },
+            "properties": {
+                "nummer": 551,
+                "title": "Neubr. Stadtmusikanten",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/551.jpg",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 72,
+                "category": 72,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/neubr-stadtmusikanten-8d23",
+                "description": "Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde die Sehenswürdigkeiten und Denkmäler der Stadt.",
+                "length_km": 12.503
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.413923,
+                    52.54767
+                ]
+            },
+            "properties": {
+                "nummer": 552,
+                "title": "Beautiful Frogs Berlin",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/552.jpg",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/beautiful-frogs-berlin-35db",
+                "description": "Have a walk around the Gethsemane church.",
+                "length_km": 1.459
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74885,
+                    53.506861
+                ]
+            },
+            "properties": {
+                "nummer": 553,
+                "title": "Echo Brighton",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/553.jpg",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "N/A",
+                "description": "Führen Sie anlässlich der Echo XM Anomaly in Brighton eine Event-Mission durch.",
+                "length_km": 3.514
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.261232,
+                    53.56027
+                ]
+            },
+            "properties": {
+                "nummer": 554,
+                "title": "Ohara Koson Birds",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/554.jpg",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 96,
+                "category": 96,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/second-sunday-bird-in-neubrandenburg-fff5",
+                "description": "Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde Sehenswürdigkeiten und Denkmäler der Stadt Neubrandenburg. Starte am Bahnhof deine Runde",
+                "length_km": 5.756
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.276832,
+                    53.568315
+                ]
+            },
+            "properties": {
+                "nummer": 555,
+                "title": "St-Patricks-Day",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/555.jpg",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/st-patricks-day-9a7a",
+                "description": "Der Saint Patrick’s Day ist der Gedenktag des irischen Bischofs Patrick, der im 5. Jahrhundert lebte und als erster christlicher Missionar in Irland gilt. (Cargress ready!)",
+                "length_km": 3.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.261756,
+                    53.561402
+                ]
+            },
+            "properties": {
+                "nummer": 556,
+                "title": "ToastAmp Neubrandenburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/556.jpg",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 18,
+                "category": 18,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/toastamp-neubrandenburg-812a",
+                "description": "Help the Toast fight the Illuminati Link-Amp!",
+                "length_km": 5.944
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.455323,
+                    50.946435
+                ]
+            },
+            "properties": {
+                "nummer": 557,
+                "title": "Frog Wall Drabenderhöhe",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/557.jpg",
+                "region": "Drabenderhöhe",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/frog-wall-drabenderh%C3%B6he-176f",
+                "description": "Kleine Runde um die Kirche und dem Turm der Erinnerung in Drabenderhöhe.",
+                "length_km": 2.081
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.733295,
+                    50.997731
+                ]
+            },
+            "properties": {
+                "nummer": 558,
+                "title": "Drachenbraut",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/558.jpg",
+                "region": "Rotenburg an der Fulda",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 18,
+                "category": 18,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/drachenbraut-e1b4",
+                "description": "Willkommen zu meinen ersten Mossaik in Rotenburg an der Fulda.",
+                "length_km": 4.39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.732508,
+                    50.997639
+                ]
+            },
+            "properties": {
+                "nummer": 559,
+                "title": "Ingress down Rotenburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/559.jpg",
+                "region": "Rotenburg an der Fulda",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 12,
+                "category": 12,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/ingress-down-rotenburg-098d",
+                "description": "Entdecke spannende Orte und historische Ecken bei einem kleinen Rundgang durch Rotenburg",
+                "length_km": 2.144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.728819,
+                    50.997792
+                ]
+            },
+            "properties": {
+                "nummer": 560,
+                "title": "MD 2023: Rotenburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/560.jpg",
+                "region": "Rotenburg an der Fulda",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/md-2023-rotenburg-934c",
+                "description": "N/A",
+                "length_km": 3.6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74885,
+                    53.506861
+                ]
+            },
+            "properties": {
+                "nummer": 561,
+                "title": "A Echo XM Anomaly Strasburg UM",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/561.jpg",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/a-echo-xm-anomaly-strasburg-um-381b",
+                "description": "Führen Sie anlässlich der Echo XM Anomaly in Athen eine Event-Mission durch.",
+                "length_km": 2.058
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.261756,
+                    53.561402
+                ]
+            },
+            "properties": {
+                "nummer": 562,
+                "title": "Treptower Tor",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/562.jpg",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 24,
+                "category": 24,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/treptower-tor-3721",
+                "description": "Das Treptower Tor ist eines von 4 Toren  in Neubrandenburg. Im Baustil  der norddeutschen Backsteingotik wurde das Tor im 14. Jahrhundert errichtet.",
+                "length_km": 10.222
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.063699,
+                    52.392425
+                ]
+            },
+            "properties": {
+                "nummer": 563,
+                "title": "MD 2023: Potsdam",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/563.jpg",
+                "region": "Potsdam",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 24,
+                "category": 24,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/md-2023-potsdam-e433",
+                "description": "Explore Potsdam on 30/09/2023 with this official MD Missions",
+                "length_km": 19.955
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.051148,
+                    52.413667
+                ]
+            },
+            "properties": {
+                "nummer": 564,
+                "title": "Dark Side of the Moon",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/564.jpg",
+                "region": "Potsdam",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 18,
+                "category": 18,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/dark-side-of-the-moon-b01f",
+                "description": "Discover the dark side of the moon in Potsdam. Start at the Fachhochschule and move towards Nauener Tor.",
+                "length_km": 5.476
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.06678,
+                    52.390195
+                ]
+            },
+            "properties": {
+                "nummer": 565,
+                "title": "Build a GBA",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/565.jpg",
+                "region": "Potsdam",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 24,
+                "category": 24,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/build-a-gba-9de8",
+                "description": "Discover Potsdam's city center and be rewarded with a nice banner in your Scanner.  This mission starts at Potsdam Central Station and is the 1st of 24.",
+                "length_km": 7.822
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.171479,
+                    52.089824
+                ]
+            },
+            "properties": {
+                "nummer": 566,
+                "title": "Luckenwalde",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/566.jpg",
+                "region": "Luckenwalde",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/luckenwalde-bd50",
+                "description": "Beginn am Markt über den Boulevard",
+                "length_km": 1.622
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.333559,
+                    51.757653
+                ]
+            },
+            "properties": {
+                "nummer": 567,
+                "title": "Tour de Cottbus",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/567.jpg",
+                "region": "Cottbus - Chóśebuz",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 24,
+                "category": 24,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/tour-de-cottbus-f2cd",
+                "description": "Etappe 1 von 24 beginnt am Wahrzeichen von Cottbus und ist eine Runde um den  Spremberger Turm. Am letzten Portal gibt es den Hinweis auf die nächste Etappe.",
+                "length_km": 16.661
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.324926,
+                    51.749995
+                ]
+            },
+            "properties": {
+                "nummer": 568,
+                "title": "Visit Cottbus",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/568.jpg",
+                "region": "Cottbus - Chóśebuz",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/visit-cottbus-70f4",
+                "description": "Diese Mission beginnt am Bahnhof und geht über die Bahnhofstraße in Richtung Theater.",
+                "length_km": 5.169
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.006949,
+                    51.516258
+                ]
+            },
+            "properties": {
+                "nummer": 569,
+                "title": "Spaziergang durch Senftenberg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/569.jpg",
+                "region": "Senftenberg - Zły Komorow",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/spaziergang-durch-senftenberg-02a3",
+                "description": "Der Spaziergang durch Senftenberg zeigt schöne Flecken und besondere Orte von Senftenberg.  Länge ca. 5 km  Die Festung ist ab ca.17 Uhr geschlossen dann nur noch  Zugang über Treppe am Tierpark",
+                "length_km": 4.121
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.230666,
+                    51.433507
+                ]
+            },
+            "properties": {
+                "nummer": 570,
+                "title": "General Hulk in Hoyerswerda",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/570.jpg",
+                "region": "Hoyerswerda - Wojerecy",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 36,
+                "category": 36,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/general-hulk-in-hoyerswerda-2ddd",
+                "description": "General Hulk besucht Hoyerswerda zu Fuß, und möchte dich auf seiner Runde mitnehmen. Beginnend am Bahnhof, vorbei am Zoo und über Zentralpark kommt Ihr zum Schluss am Bahnhof wieder an.",
+                "length_km": 15.405
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23195,
+                    51.42971
+                ]
+            },
+            "properties": {
+                "nummer": 571,
+                "title": "Hulk-Minion",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/571.jpg",
+                "region": "Dörgenhausen - Němcy",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 18,
+                "category": 18,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/hulk-minion-941a",
+                "description": "Starte eine Tour durch Hoyerswerda und puzzle dir diesen kleinen Minion zusammen...",
+                "length_km": 8.602
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.259929,
+                    51.435879
+                ]
+            },
+            "properties": {
+                "nummer": 572,
+                "title": "Enlightened Mission",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/572.jpg",
+                "region": "Hoyerswerda - Wojerecy",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/enlightened-mission-6db8",
+                "description": "Ne Fixe Runde durch Hoyerswerda damit hier die Erleuchtung wieder einkehrt!",
+                "length_km": 5.127
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.989784,
+                    53.502666
+                ]
+            },
+            "properties": {
+                "nummer": 573,
+                "title": "Kiek in de Mark",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/573.jpg",
+                "region": "Pasewalk",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/kiek-in-de-mark-80d9",
+                "description": "Walk through the city and pick up a banner with the tower in rainbow colours.",
+                "length_km": 3.24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.70231,
+                    40.417009
+                ]
+            },
+            "properties": {
+                "nummer": 574,
+                "title": "Guerrero Legendario",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/574.jpg",
+                "region": "Madrid",
+                "country": "España",
+                "completed": 0,
+                "missions": 72,
+                "category": 72,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/guerrero-legendario-62df",
+                "description": "Paseo por el centro de Madrid",
+                "length_km": 18.342
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.699493,
+                    40.418027
+                ]
+            },
+            "properties": {
+                "nummer": 575,
+                "title": "MADRID POP ART GIRL",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/575.jpg",
+                "region": "Madrid",
+                "country": "España",
+                "completed": 0,
+                "missions": 48,
+                "category": 48,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/madrid-pop-art-girl-fa2f",
+                "description": "Descubre los lugares más emblematicos y con encato de Madrid. Desde Sol a la Plaza de la Villa, pasando por la Plaza de Oriente.",
+                "length_km": 8.268
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.694094,
+                    40.408647
+                ]
+            },
+            "properties": {
+                "nummer": 576,
+                "title": "MD 2023: Madrid",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/576.jpg",
+                "region": "Madrid",
+                "country": "España",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/md-2023-madrid-4e7b",
+                "description": "N/A",
+                "length_km": 3.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.706782,
+                    40.41438
+                ]
+            },
+            "properties": {
+                "nummer": 577,
+                "title": "FRAWS",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/577.jpg",
+                "region": "Madrid",
+                "country": "España",
+                "completed": 0,
+                "missions": 48,
+                "category": 48,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/fraws-1264",
+                "description": "There is a creature alive today which has survived millions of years of evolution...without change, without passion, without logic. --- Passphrases are Mission Numbers. - Have Fun! - THE PARK CLOSES AT 10 p.m. !",
+                "length_km": 10.554
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.70231,
+                    40.417009
+                ]
+            },
+            "properties": {
+                "nummer": 578,
+                "title": "La Muerte",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/578.jpg",
+                "region": "Madrid",
+                "country": "España",
+                "completed": 0,
+                "missions": 36,
+                "category": 36,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/la-muerte-c60f",
+                "description": "recorrido por la puerta del sol",
+                "length_km": 9.344
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.70231,
+                    40.417009
+                ]
+            },
+            "properties": {
+                "nummer": 579,
+                "title": "Visita a Madrid",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/579.jpg",
+                "region": "Madrid",
+                "country": "España",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/visita-a-madrid-cbcd",
+                "description": "Primera parte de la visita al la Puerta del Sol y sus alrededores, centro turístico y emblemático de la Capital de España, que no se puede dejar de visitar al ir a esta importante ciudad.",
+                "length_km": 949.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.450327,
+                    51.66616
+                ]
+            },
+            "properties": {
+                "nummer": 580,
+                "title": "Hafentempel Xanten",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/580.jpg",
+                "region": "Lüttingen",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 18,
+                "category": 18,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/hafentempel-xanten-5274",
+                "description": "Dieses 18 Mosaik führt durch den APX.  Hier muss man Eintritt bezahlen. die Preise findet ihr auf folgender Internetseite www.apx.lvr.de. Für Kinder ist dort ein Kletterparadies und Hüpfkissen.",
+                "length_km": 6.671
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.203765,
+                    51.616926
+                ]
+            },
+            "properties": {
+                "nummer": 581,
+                "title": "Tut-Tut Child",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/581.jpg",
+                "region": "Recklinghausen",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 90,
+                "category": 90,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/tut-tut-child-4d7a",
+                "description": "Erkunde das beschauliche Recklinghausen ganz genau, vielleicht findest du die Maske vom Kind.",
+                "length_km": 23.182
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.261756,
+                    53.561402
+                ]
+            },
+            "properties": {
+                "nummer": 582,
+                "title": "Frog DJ",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/582.jpg",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 36,
+                "category": 36,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/frog-dj-bd8f",
+                "description": "Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde die Sehenswürdigkeiten und Denkmäler der Stadt.",
+                "length_km": 10.28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.701401,
+                    51.039343
+                ]
+            },
+            "properties": {
+                "nummer": 583,
+                "title": "Toast Heros Dresden",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/583.jpg",
+                "region": "Dresden",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/toast-heros-dresden-54da",
+                "description": "Eine kleine Runde durch den schönen Stadtteil Dresden Löbtau.",
+                "length_km": 1.313
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.702053,
+                    51.038546
+                ]
+            },
+            "properties": {
+                "nummer": 584,
+                "title": "Schneeflöckchen",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/584.jpg",
+                "region": "Dresden",
+                "country": "Deutschland",
+                "completed": 1302,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/schneefl%C3%B6ckchen-0616",
+                "description": "Schneeflöckchen, Weißröckchen Wann kommst du geschneit? Du kommst aus den Wolken Dein Weg ist so weit  Ein Spaziergang durch Löbtau-Süd",
+                "length_km": 1.693
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.740839,
+                    51.057646
+                ]
+            },
+            "properties": {
+                "nummer": 585,
+                "title": "Happy Penguins",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/585.jpg",
+                "region": "Dresden",
+                "country": "Deutschland",
+                "completed": 1308,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/happy-penguins-d971",
+                "description": "Weihnachtliche Pinguine verstecken sich am Dresdner Elbufer. Kannst du sie finden?",
+                "length_km": 1.619
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.745904,
+                    51.062715
+                ]
+            },
+            "properties": {
+                "nummer": 586,
+                "title": "#FS Rubik Cube",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/586.jpg",
+                "region": "Dresden",
+                "country": "Deutschland",
+                "completed": 1314,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/fs-rubik-cube-5915",
+                "description": "Can you solve this riddle at the FS in Dresden?",
+                "length_km": 1.828
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74587,
+                    51.05795
+                ]
+            },
+            "properties": {
+                "nummer": 587,
+                "title": "Dresden Skyline",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/587.jpg",
+                "region": "Dresden",
+                "country": "Deutschland",
+                "completed": 1326,
+                "missions": 12,
+                "category": 12,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/dresden-skyline-06da",
+                "description": "Dresden - eine barocke Perle an der Elbe. Viele Maler haben diese Pracht schon auf Leinwand verewigt. Nun könnt ihr ein Mosaik aus 12 Teilen in eurem Agent-Profil ergänzen. Teil 1 von 12",
+                "length_km": 4.1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.739913,
+                    51.044895
+                ]
+            },
+            "properties": {
+                "nummer": 588,
+                "title": "DARK FROG RISES",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/588.jpg",
+                "region": "Dresden",
+                "country": "Deutschland",
+                "completed": 1344,
+                "missions": 18,
+                "category": 18,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/dark-frog-rises-7776",
+                "description": "This is the mosaic for the Enlightened at Umbra Dresden, which consists of 18 missions and offers a short walk through the city. Batfrog is calling!",
+                "length_km": 6.811
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.702053,
+                    51.038546
+                ]
+            },
+            "properties": {
+                "nummer": 589,
+                "title": "Winter Friends",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/589.jpg",
+                "region": "Dresden",
+                "country": "Deutschland",
+                "completed": 135,
+                "missions": 6,
+                "category": 6,
+                "date": 2023,
+                "bg_link": "https://bannergress.com/banner/winter-friends-95cd",
+                "description": "Geh mit deinen Freunden durch Löbtau",
+                "length_km": 1.889
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.259994,
+                    53.561425
+                ]
+            },
+            "properties": {
+                "nummer": 590,
+                "title": "Frog in Neubrandenburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/590.jpg",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 1368,
+                "missions": 18,
+                "category": 18,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/frog-in-neubrandenburg-fbd3",
+                "description": "Beginne eine Runde durch Neubrandenburg und entdecke auf deiner Runde die Sehenswürdigkeiten und Denkmäler der Stadt.",
+                "length_km": 4.795
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.610093,
+                    41.1414
+                ]
+            },
+            "properties": {
+                "nummer": 591,
+                "title": "MD 2024: Porto",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/591.jpg",
+                "region": "Porto",
+                "country": "Portugal",
+                "completed": 1374,
+                "missions": 6,
+                "category": 6,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/md-2024-porto-504c",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.464665,
+                    50.997138
+                ]
+            },
+            "properties": {
+                "nummer": 592,
+                "title": "Held der Kindheit",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/592.jpg",
+                "region": "Ründeroth",
+                "country": "Deutschland",
+                "completed": 1386,
+                "missions": 12,
+                "category": 12,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/held-der-kindheit-975c",
+                "description": "Eine Runde rund um und durch Ründeroth, entlang alter Handelswege und vieler historischer Denkmäler. Länge beträgt ca. 5 km und dauert ca. 2 Stunden. Viel Spaß.",
+                "length_km": 4.887
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.054263,
+                    47.497523
+                ]
+            },
+            "properties": {
+                "nummer": 593,
+                "title": "Belváros-Lipótváros",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/593.jpg",
+                "region": "Budapest",
+                "country": "Magyarország",
+                "completed": 0,
+                "missions": 24,
+                "category": 24,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/belv%C3%A1ros-lip%C3%B3tv%C3%A1ros-57e4",
+                "description": "Discover the central part of Budapest in District V, situated on the east bank of the river Danube.",
+                "length_km": 4.671
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.061964,
+                    47.491074
+                ]
+            },
+            "properties": {
+                "nummer": 594,
+                "title": "MD 2024: Budapest",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/594.jpg",
+                "region": "Budapest",
+                "country": "Magyarország",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/md-2024-budapest-6bc9",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.387857,
+                    39.466133
+                ]
+            },
+            "properties": {
+                "nummer": 595,
+                "title": "Clear your mind -Valencia",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/595.jpg",
+                "region": "València",
+                "country": "España",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/clear-your-mind-valencia-6de4",
+                "description": "Agradable paseo por las calles de Valencia",
+                "length_km": 1.319
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.393369,
+                    39.444296
+                ]
+            },
+            "properties": {
+                "nummer": 596,
+                "title": "Lovers in Halloween",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/596.jpg",
+                "region": "València",
+                "country": "España",
+                "completed": 0,
+                "missions": 42,
+                "category": 42,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/lovers-in-halloween-bd93",
+                "description": "Celebra Halloween haciendo este bonito mural por las calles de Valencia.",
+                "length_km": 10.574
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.376814,
+                    39.467715
+                ]
+            },
+            "properties": {
+                "nummer": 597,
+                "title": "Halloween in Valencia",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/597.jpg",
+                "region": "València",
+                "country": "España",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/halloween-in-valencia-f0f4",
+                "description": "Discover Valencia at Halloween and get this spooky banner!",
+                "length_km": 1.623
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.375319,
+                    39.473851
+                ]
+            },
+            "properties": {
+                "nummer": 598,
+                "title": "Halloween Baby",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/598.jpg",
+                "region": "València",
+                "country": "España",
+                "completed": 0,
+                "missions": 30,
+                "category": 30,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/halloween-baby-d7fe",
+                "description": "Recorre nuestra capital y llévate pequeño recuerdo de Halloween 2019",
+                "length_km": 4.536
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.375533,
+                    39.46944
+                ]
+            },
+            "properties": {
+                "nummer": 599,
+                "title": "Casco Histórico Plz. La Virgen",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/599.jpg",
+                "region": "València",
+                "country": "España",
+                "completed": 0,
+                "missions": 18,
+                "category": 18,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/casco-hist%C3%B3rico-plz-la-virgen-4c18",
+                "description": "Uno de los lugares mas emblemáticos de la ciudad Valenciana, es sin duda la plaza de la Virgen en pleno centro del casco antiguo y rodeado de muchas calles con un ambiente muy muy agradable.",
+                "length_km": 4.275
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.376593,
+                    39.470876
+                ]
+            },
+            "properties": {
+                "nummer": 600,
+                "title": "Once Upon A Time Under The Valencian Sun",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/600.jpg",
+                "region": "València",
+                "country": "España",
+                "completed": 0,
+                "missions": 18,
+                "category": 18,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/once-upon-a-time-under-the-valencian-sun-f640",
+                "description": "Discover Valencia's Old Town, where historic charm meets vibrant culture. Wander through medieval streets, admire stunning architecture, and indulge in local cuisine at lively plazas.",
+                "length_km": 4.879
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.376042,
+                    39.479126
+                ]
+            },
+            "properties": {
+                "nummer": 601,
+                "title": "Conillets",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/601.jpg",
+                "region": "València",
+                "country": "España",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/conillets-cdf4",
+                "description": "Chase these hot rabbits while you walk through the historic center of Valencia streets",
+                "length_km": 0.957
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.377109,
+                    39.468482
+                ]
+            },
+            "properties": {
+                "nummer": 602,
+                "title": "Ángel",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/602.jpg",
+                "region": "València",
+                "country": "España",
+                "completed": 0,
+                "missions": 24,
+                "category": 24,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/%C3%A1ngel-9bdc",
+                "description": "Conoce el centro de Valencia y consigue un ángel que irá contigo.",
+                "length_km": 4.592
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.375619,
+                    39.466853
+                ]
+            },
+            "properties": {
+                "nummer": 603,
+                "title": "CALAVERAS MEXICANAS",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/603.jpg",
+                "region": "València",
+                "country": "España",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/calaveras-mexicanas-35f1",
+                "description": "La Plaza de Toros de Valencia fue inaugurada en 1851. Su estilo neoclásico fue inspirado de la arquitectura romana, del Coliseo . Declarada Monumento Histórico Artístico por la D.G. de bellas artes.",
+                "length_km": 1.389
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.375619,
+                    39.466853
+                ]
+            },
+            "properties": {
+                "nummer": 604,
+                "title": "Valencia Skyline",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/604.jpg",
+                "region": "València",
+                "country": "España",
+                "completed": 0,
+                "missions": 12,
+                "category": 12,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/valencia-skyline-4d2a",
+                "description": "Descubre los lugares más emblemáticos de la ciudad de Valencia y completa este bonito banner. Discover the most emblematic places in Valencia and complete this beautiful banner.",
+                "length_km": 3.561
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.37649,
+                    39.470401
+                ]
+            },
+            "properties": {
+                "nummer": 605,
+                "title": "Skyline",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/605.jpg",
+                "region": "València",
+                "country": "España",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/skyline-8ead",
+                "description": "En esta mision  recorreremos el centro de esta ciudad mediterranea y sus lugares emblematicos.",
+                "length_km": 1.795
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.324172,
+                    39.47116
+                ]
+            },
+            "properties": {
+                "nummer": 606,
+                "title": "Las Banderas",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/606.jpg",
+                "region": "València",
+                "country": "España",
+                "completed": 0,
+                "missions": 12,
+                "category": 12,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/las-banderas-c32a",
+                "description": "Vamos a pasear desde un gran punto de reunión e interés (La Nau de l'aigua) hasta otro gran punto de referencia (Las Banderas) que hace de unión entre el paseo marítimo y \"La Marina de València\"",
+                "length_km": 4.719
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.333273,
+                    39.467501
+                ]
+            },
+            "properties": {
+                "nummer": 607,
+                "title": "Valencia",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/607.jpg",
+                "region": "València",
+                "country": "España",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2024,
+                "bg_link": "https://bannergress.com/banner/valencia-5b22",
+                "description": "Es hora de pasear y conocer un poco el Canyamelar",
+                "length_km": 1.66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26153,
+                    53.561118
+                ]
+            },
+            "properties": {
+                "nummer": 608,
+                "title": "Frog in Town",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/608.jpg",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 24,
+                "category": 24,
+                "date": 2025,
+                "bg_link": "https://bannergress.com/banner/frog-in-town-853e",
+                "description": "Erkundige auf dem Weg durch Neubrandenburg das Zentrum der Vier-Tore-Stadt Neubrandenburg insbesondere mit den 4 Toren mit norddeutscher Backsteingotik und den vielen unterschiedlichen Wiekhäusern.",
+                "length_km": 4.518
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.261756,
+                    53.561402
+                ]
+            },
+            "properties": {
+                "nummer": 609,
+                "title": "Marx is calling you - Neubrandenburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/609.jpg",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 6,
+                "category": 6,
+                "date": 2025,
+                "bg_link": "https://bannergress.com/banner/marx-is-calling-you-neubrandenburg-459a",
+                "description": "+Theta Chemnitz is coming! Explore a city in transformation from industrial heritage and stunning architecture to cultural diversity. As ECoC 2025, Chemnitz invites you to C the Unseen!",
+                "length_km": 1.366
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.259266,
+                    53.561265
+                ]
+            },
+            "properties": {
+                "nummer": 610,
+                "title": "Playing Frogs NB",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/610.jpg",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 0,
+                "missions": 24,
+                "category": 24,
+                "date": 2025,
+                "bg_link": "https://bannergress.com/banner/playing-frogs-nb-2fed",
+                "description": "Diese Missionen führen entlang des Strandbads Brodas und dem Kulturpark von Neubrandenburg. Entdecke dabei auch die zahlreichen Skulpturen im Kulturpark.",
+                "length_km": 6.965
+            }
+        }
+    ]
+}

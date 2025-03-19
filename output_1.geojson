@@ -1,0 +1,5021 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.129966,
+                    54.077793
+                ]
+            },
+            "properties": {
+                "nummer": 1,
+                "title": "Rostocker Flagge",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/1.jpg",
+                "region": "Rostock",
+                "country": "Deutschland",
+                "completed": 96,
+                "missions": 24,
+                "category": 24,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/rostocker-flagge-9920",
+                "description": "Erkunde ab hier die wunderschöne Hansestadt Rostock mit Ihren Sehenswürdigkeiten. Beginne mit dem Bahnhof als zentralen Anlaufpunkt. PS: Es sollte das Fahrrad genutzt werden.",
+                "length_km": 12.84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.129432,
+                    54.088461
+                ]
+            },
+            "properties": {
+                "nummer": 2,
+                "title": "Vicke Schorler Rolle",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/2.jpg",
+                "region": "Rostock",
+                "country": "Deutschland",
+                "completed": 102,
+                "missions": 6,
+                "category": 6,
+                "date": 2015,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.027281,
+                    54.366406
+                ]
+            },
+            "properties": {
+                "nummer": 3,
+                "title": "Hacking Tour in und um Prohn",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/3.jpg",
+                "region": "Prohn",
+                "country": "Deutschland",
+                "completed": 108,
+                "missions": 6,
+                "category": 6,
+                "date": 2015,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.078088,
+                    54.308652
+                ]
+            },
+            "properties": {
+                "nummer": 4,
+                "title": "Starry Night TARDIS",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/4.jpg",
+                "region": "Stralsund",
+                "country": "Deutschland",
+                "completed": 132,
+                "missions": 24,
+                "category": 24,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/starry-night-tardis-1458",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.115364,
+                    54.309207
+                ]
+            },
+            "properties": {
+                "nummer": 5,
+                "title": "Silhouette von Stralsund",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/5.jpg",
+                "region": "Stralsund",
+                "country": "Deutschland",
+                "completed": 138,
+                "missions": 6,
+                "category": 6,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/silhouette-von-stralsund-a792",
+                "description": "Vom Dänholm entlang des Strelasunds in Richtung  Parow charakterisiert die neue Rügenbrücke sowie die drei großen mittelalterlichen Kirchen der Backsteingotik die Silhouette Stralsunds.",
+                "length_km": 5.51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.266122,
+                    53.556192
+                ]
+            },
+            "properties": {
+                "nummer": 6,
+                "title": "Besuch der 4 Tore",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/6.jpg",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 144,
+                "missions": 6,
+                "category": 6,
+                "date": 2015,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.261756,
+                    53.561402
+                ]
+            },
+            "properties": {
+                "nummer": 7,
+                "title": "Neubrandenburg im Morgennebel",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/7.jpg",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 174,
+                "missions": 30,
+                "category": 30,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/neubrandenburg-im-morgennebel-f2f5",
+                "description": "Neubrandenburg - die Stadt der 4 Tore in 36 Teilen. Schon Caspar David Friedrich erkannte 1816 die Schönheit der Stadt.",
+                "length_km": 35.29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74885,
+                    53.506861
+                ]
+            },
+            "properties": {
+                "nummer": 8,
+                "title": "Strasburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/8.jpg",
+                "region": "Strasburg (Uckermark)",
+                "country": "Deutschland",
+                "completed": 180,
+                "missions": 6,
+                "category": 6,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/strasburg-bc8d",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.625131,
+                    54.398545
+                ]
+            },
+            "properties": {
+                "nummer": 9,
+                "title": "Binz auf Rügen",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/9.jpg",
+                "region": "Binz",
+                "country": "Deutschland",
+                "completed": 198,
+                "missions": 18,
+                "category": 18,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/binz-auf-r%C3%BCgen-2ec3",
+                "description": "Besonderer Anziehungspunkt ist die 3,2 km lange Strandpromenade mit zahlreichen und liebevoll restaurierten Bädervillen, Hotels, Cafés und Restaurants sowie der Seebrücke.",
+                "length_km": 9.08
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.382173,
+                    54.099775
+                ]
+            },
+            "properties": {
+                "nummer": 10,
+                "title": "Museumshafen Greifswald",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/10.jpg",
+                "region": "Greifswald",
+                "country": "Deutschland",
+                "completed": 216,
+                "missions": 18,
+                "category": 18,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/museumshafen-greifswald-66c3",
+                "description": "Teil 1 der Tour \"Museumshafen Greifswald\"",
+                "length_km": 5.93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.372863,
+                    54.09527
+                ]
+            },
+            "properties": {
+                "nummer": 11,
+                "title": "HGW",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/11.jpg",
+                "region": "Greifswald",
+                "country": "Deutschland",
+                "completed": 222,
+                "missions": 6,
+                "category": 6,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/hgw-letter-walk-4d8f",
+                "description": "1. Letter-Walk für die Hansestadt Greifswald. Zeige in deinen Mission-Medals, woher du kommst.",
+                "length_km": 1.9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.456953,
+                    54.097717
+                ]
+            },
+            "properties": {
+                "nummer": 12,
+                "title": "Greifswalder Flagge",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/12.jpg",
+                "region": "Greifswald",
+                "country": "Deutschland",
+                "completed": 240,
+                "missions": 18,
+                "category": 18,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/greifswalder-flagge-efe8",
+                "description": "Zeige Flagge für die einzigartige Universitäts- und Hansestadt Greifswald! Dies ist die erste von achtzehn Missionen für das Mosaik der Greifswalder Flagge.",
+                "length_km": 12.22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.862231,
+                    53.558877
+                ]
+            },
+            "properties": {
+                "nummer": 13,
+                "title": "Botanischer Garten Mosaik",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/13.jpg",
+                "region": "Hamburg",
+                "country": "Deutschland",
+                "completed": 258,
+                "missions": 18,
+                "category": 18,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/botanischer-garten-mosaik-30ba",
+                "description": "Ein wunderschönes Mosaik aus dem Botanischen Garten / Loki-Schmidt-Garten",
+                "length_km": 4.28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.989297,
+                    53.55797
+                ]
+            },
+            "properties": {
+                "nummer": 14,
+                "title": "Planten un Blomen Mosaik",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/14.jpg",
+                "region": "Hamburg",
+                "country": "Deutschland",
+                "completed": 276,
+                "missions": 18,
+                "category": 18,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/planten-un-blomen-mosaik-ee10",
+                "description": "All Missions are in sequence and hack only! Mission: 1 of 18 Location: Hamburg Germany Opening Hours Jan-Mar | 7–20 Uhr Apr | 7–22 Uhr May–Sep | 7-23 Uhr Oct–Dec | 7–20 Uhr",
+                "length_km": 7.38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.970032,
+                    53.545576
+                ]
+            },
+            "properties": {
+                "nummer": 15,
+                "title": "Landungsbrücken",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/15.jpg",
+                "region": "Hamburg",
+                "country": "Deutschland",
+                "completed": 294,
+                "missions": 18,
+                "category": 18,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/landungsbr%C3%BCcken-mosaik-5dad",
+                "description": "Mosaic around the Landungsbrücken",
+                "length_km": 5.87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.997115,
+                    53.546274
+                ]
+            },
+            "properties": {
+                "nummer": 16,
+                "title": "Speicherstadt Mosaik",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/16.jpg",
+                "region": "Hamburg",
+                "country": "Deutschland",
+                "completed": 312,
+                "missions": 18,
+                "category": 18,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/speicherstadt-mosaik-a9bd",
+                "description": "All missions are in sequence. Location: Hamburg Germany",
+                "length_km": 5.64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.986227,
+                    53.554089
+                ]
+            },
+            "properties": {
+                "nummer": 17,
+                "title": "BROmission!",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/17.jpg",
+                "region": "Hamburg",
+                "country": "Deutschland",
+                "completed": 318,
+                "missions": 6,
+                "category": 6,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/bromission-c276",
+                "description": "Go for a walk with your BROs! First of the sequence.  This is starting at Google! Get a selfie -sorry, a brolfie- there.",
+                "length_km": 1.88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.993663,
+                    53.552386
+                ]
+            },
+            "properties": {
+                "nummer": 18,
+                "title": "MissionDay Hamburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/18.jpg",
+                "region": "Hamburg",
+                "country": "Deutschland",
+                "completed": 330,
+                "missions": 12,
+                "category": 12,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/md-hamburg-0950",
+                "description": "The Alsterarkaden is the smallest and oldest shopping arcade in Hamburg.",
+                "length_km": 71.95
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.078783,
+                    54.312901
+                ]
+            },
+            "properties": {
+                "nummer": 19,
+                "title": "Das Stralsunder Wappen",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/19.jpg",
+                "region": "Stralsund",
+                "country": "Deutschland",
+                "completed": 348,
+                "missions": 18,
+                "category": 18,
+                "date": 2015,
+                "bg_link": "https://bannergress.com/banner/das-stralsunder-wappen-9a4d",
+                "description": "Dies ist die 1. Mission für das Stralsunder Wappen!",
+                "length_km": 5.64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.371313,
+                    52.50931
+                ]
+            },
+            "properties": {
+                "nummer": 20,
+                "title": "STAR WARS - Das Erwachen der Macht (Berlin)",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/20.jpg",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 354,
+                "missions": 6,
+                "category": 6,
+                "date": 2015,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.071849,
+                    53.573784
+                ]
+            },
+            "properties": {
+                "nummer": 21,
+                "title": "Hunting ground Wandsbek Markt",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/21.jpg",
+                "region": "Hamburg",
+                "country": "Deutschland",
+                "completed": 360,
+                "missions": 6,
+                "category": 6,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/hunting-ground-wandsbek-markt-ventrue-3567",
+                "description": "Die sechs Vampir Clans der Camarilla begehren diese Domäne. Welcher Clan wird obsiegen? Wen wirst du unterstützen?",
+                "length_km": 1.51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.594348,
+                    53.462334
+                ]
+            },
+            "properties": {
+                "nummer": 22,
+                "title": "Erobere Woldegk",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/22.jpg",
+                "region": "Woldegk",
+                "country": "Deutschland",
+                "completed": 378,
+                "missions": 18,
+                "category": 18,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/erobere-woldegk-13fd",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54793,
+                    53.426583
+                ]
+            },
+            "properties": {
+                "nummer": 23,
+                "title": "Gryf Szczeciński",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/23.jpg",
+                "region": "Szczecin",
+                "country": "Polska",
+                "completed": 420,
+                "missions": 42,
+                "category": 42,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/gryf-szczeci%C5%84ski-6cc3",
+                "description": "Jeden z symboli miejskich Szczecina. Symbol książąt z dynastii Gryfitów.",
+                "length_km": 12.44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.560711,
+                    48.140198
+                ]
+            },
+            "properties": {
+                "nummer": 24,
+                "title": "I Love München",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/24.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 426,
+                "missions": 6,
+                "category": 6,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/m%C3%BCnchen-c9f9",
+                "description": "I love München.",
+                "length_km": 2.32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.379318,
+                    51.345086
+                ]
+            },
+            "properties": {
+                "nummer": 25,
+                "title": "Agent 007",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/25.jpg",
+                "region": "Leipzig",
+                "country": "Deutschland",
+                "completed": 444,
+                "missions": 18,
+                "category": 18,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/agent-007-7601",
+                "description": "Begib dich auf Erkundungstour durch das schöne Zentrum von Leipzig, schau dir genau alles an, und verhalte dich unauffällig. Viel Spaß. :-)",
+                "length_km": 4.67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.380866,
+                    51.338149
+                ]
+            },
+            "properties": {
+                "nummer": 26,
+                "title": "Drachenfrau",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/26.jpg",
+                "region": "Leipzig",
+                "country": "Deutschland",
+                "completed": 468,
+                "missions": 24,
+                "category": 24,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/drachenfrau-5063",
+                "description": "In der fast fertig sanierten Innenstadt kann man gut shoppen, altes und neues entdecken oder einfach durch die Gassen wandeln. Viel Spaß dabei.",
+                "length_km": 7.44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.691782,
+                    54.044188
+                ]
+            },
+            "properties": {
+                "nummer": 27,
+                "title": "Der Greif von Mecklenburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/27.jpg",
+                "region": "Katzow",
+                "country": "Deutschland",
+                "completed": 516,
+                "missions": 48,
+                "category": 48,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/der-greif-von-mecklenburg-49aa",
+                "description": "Zu schnelles hacken wird bestraft mit 5min Wartezeit;)  solltet ihr zu schnell gehackt haben kann es zum Schluss des Mosaik knapp werden. Genügend Multihacks wären von Vorteil. Viel Spaß :o)",
+                "length_km": 11.11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.586201,
+                    48.162715
+                ]
+            },
+            "properties": {
+                "nummer": 28,
+                "title": "Schwabylon",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/28.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 534,
+                "missions": 18,
+                "category": 18,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/schwabylon-282a",
+                "description": "Schwabylon. Diese Runde führt durch einen Teil des Münchner Stadtteils Schwabing. Schwabing war früher ein kleines Dorf nördlich von Münchnen, das als Suuapinga bereits 782 in Urkunden erwähnt wurde.",
+                "length_km": 8.09
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.603175,
+                    48.128008
+                ]
+            },
+            "properties": {
+                "nummer": 29,
+                "title": "MUCstock",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/29.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 546,
+                "missions": 12,
+                "category": 12,
+                "date": 2016,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.658516,
+                    48.199911
+                ]
+            },
+            "properties": {
+                "nummer": 30,
+                "title": "Sound Vision",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/30.jpg",
+                "region": "Unterföhring",
+                "country": "Deutschland",
+                "completed": 600,
+                "missions": 54,
+                "category": 54,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/sound-vision-f57e",
+                "description": "Your journey will take you through three beautiful towns of Bavaria. Please enjoy the views and our historical towns.",
+                "length_km": 40.14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.575546,
+                    48.137437
+                ]
+            },
+            "properties": {
+                "nummer": 31,
+                "title": "Marienplatz München",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/31.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 624,
+                "missions": 24,
+                "category": 24,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/marienplatz-m%C3%BCnchen-50a9",
+                "description": "1315 verlieh Kaiser Ludwig der Bayer München die Marktfreiheit mit der Auflage, dass der damals Marktplatz genannte Marienplatz „auf ewige Zeiten“ hin unbebaut bleibe.",
+                "length_km": 5.84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.565815,
+                    48.139141
+                ]
+            },
+            "properties": {
+                "nummer": 32,
+                "title": "Karlsplatz Stachus",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/32.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 648,
+                "missions": 24,
+                "category": 24,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/karlsplatz-stachus-a1a8",
+                "description": "Der Karlsplatz liegt an einer Stelle, über die im Mittelalter die Salzstraße führte, die Herzog Heinrich der Löwe von Föhring nach München verlegt hatte.",
+                "length_km": 6.14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.577356,
+                    48.140569
+                ]
+            },
+            "properties": {
+                "nummer": 33,
+                "title": "Siegestor München",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/33.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 672,
+                "missions": 24,
+                "category": 24,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/siegestor-m%C3%BCnchen-4f77",
+                "description": "Das Siegestor wurde 1843 bis 1850 aus Kelheimer Kalkstein errichtet. Am 15. Oktober 1850 übergab König Maximilian II. im Namen seines abgedankten Vaters das Siegestor an die Stadt München.",
+                "length_km": 7.66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.025122,
+                    49.461617
+                ]
+            },
+            "properties": {
+                "nummer": 34,
+                "title": "Mission Day Nürnberg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/34.jpg",
+                "region": "Nürnberg",
+                "country": "Deutschland",
+                "completed": 684,
+                "missions": 12,
+                "category": 12,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/md-n%C3%BCrnberg-2280",
+                "description": "The former AEG factory premises have been become a lively urban site with IT offices, workshops, photographs’ and artists’ studios, exhibition halls and last but not least Nuremberg’s FabLab.",
+                "length_km": 31.1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.255605,
+                    48.176883
+                ]
+            },
+            "properties": {
+                "nummer": 35,
+                "title": "Ingress First Saturday FFB 03 09 2016",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/35.jpg",
+                "region": "Fürstenfeldbruck",
+                "country": "Deutschland",
+                "completed": 690,
+                "missions": 6,
+                "category": 6,
+                "date": 2016,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.558117,
+                    48.141321
+                ]
+            },
+            "properties": {
+                "nummer": 36,
+                "title": "Olympiaturm München",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/36.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 750,
+                "missions": 60,
+                "category": 60,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/olympiaturm-m%C3%BCnchen-24a1",
+                "description": "Diese Missionsreihe führt dich vom Hauptbahnhof quer durch München zum Olympiaturm in 60 kleinen Missionen.",
+                "length_km": 21.9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.630954,
+                    48.247019
+                ]
+            },
+            "properties": {
+                "nummer": 37,
+                "title": "BlueSunGarching",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/37.jpg",
+                "region": "Garching bei München",
+                "country": "Deutschland",
+                "completed": 774,
+                "missions": 24,
+                "category": 24,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/bluesungarching-f7ce",
+                "description": "A Trip to (nearly) all portals in Garching Hochbrück (1-6), Garching (7-12) and Garching-Forschungszentrum (13-24). The first 3 missions have long Distances. Bycicle is adviced.",
+                "length_km": 26.52
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.566635,
+                    48.139917
+                ]
+            },
+            "properties": {
+                "nummer": 38,
+                "title": "CSD-Politparade 2015",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/38.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 780,
+                "missions": 6,
+                "category": 6,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/csd-politparade-2015-5d73",
+                "description": "Rund um den Stachus.  Kleine Serie von Missionen entlang der Strecke der CSD-Politparade von 2015. Vielleicht findest du ja unterwegs das eine oder andere Ampelpärchen ;-)",
+                "length_km": 3.76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.389033,
+                    48.134114
+                ]
+            },
+            "properties": {
+                "nummer": 39,
+                "title": "Time Space und Fürstenfeldbruck",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/39.jpg",
+                "region": "Germering",
+                "country": "Deutschland",
+                "completed": 828,
+                "missions": 48,
+                "category": 48,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/time-space-und-f%C3%BCrstenfeldbruck-7a7f",
+                "description": "Eine Reise durch den schönen Landkreis Fürstenfeldbruck.",
+                "length_km": 98.19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.576208,
+                    48.137238
+                ]
+            },
+            "properties": {
+                "nummer": 40,
+                "title": "Uptown München",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/40.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 888,
+                "missions": 60,
+                "category": 60,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/uptown-m%C3%BCnchen-a93b",
+                "description": "Die gläserne Fassade umhüllt das Tragwerk des nach dreijähriger Bauzeit im Jahre 2004 im Stadtteil Moosach fertiggestellten Büroturms. Das Hochhaus wird von vier siebengeschossigen Gebäuden flankiert",
+                "length_km": 18.71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.684061,
+                    48.214031
+                ]
+            },
+            "properties": {
+                "nummer": 41,
+                "title": "ISMANING",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/41.jpg",
+                "region": "Ismaning",
+                "country": "Deutschland",
+                "completed": 906,
+                "missions": 18,
+                "category": 18,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/ismaning-88b8",
+                "description": "Discover the historical town of Ismaning through this mosaic picture mission, starting at the lake of Ismaning. Once completed, the mosaic resembles the crest of Ismaning.",
+                "length_km": 16.26
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.57772,
+                    48.141742
+                ]
+            },
+            "properties": {
+                "nummer": 42,
+                "title": "Antiquarium München",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/42.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 930,
+                "missions": 24,
+                "category": 24,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/antiquarium-m%C3%BCnchen-f327",
+                "description": "Das Antiquarium wurde ab 1568 zur Aufnahme der herzoglichen Antikensammlung und Bibliothek als Erweiterung der Münchner Residenz errichtet und wenig später zu einem Festsaal umgestaltet.",
+                "length_km": 8.23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.557779,
+                    48.257227
+                ]
+            },
+            "properties": {
+                "nummer": 43,
+                "title": "Schleissheim Postcard",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/43.jpg",
+                "region": "Oberschleißheim",
+                "country": "Deutschland",
+                "completed": 954,
+                "missions": 24,
+                "category": 24,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/schleissheim-postcard-953e",
+                "description": "Schleissheim Postcard Mission Banner. The Missions will lead you through most of Oberschleissheim. Possible on foot. Bike recommended.",
+                "length_km": 9.63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.576878,
+                    48.136661
+                ]
+            },
+            "properties": {
+                "nummer": 44,
+                "title": "Munich city walls",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/44.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 978,
+                "missions": 24,
+                "category": 24,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/munich-city-walls-0113",
+                "description": "In former times Munich had two city walls. Later the town was transformed into a fortress. This mission series explores the remnants and traces of that time. Please read the portal texts.",
+                "length_km": 13.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.563926,
+                    48.146732
+                ]
+            },
+            "properties": {
+                "nummer": 45,
+                "title": "Blauer Reiter Tour",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/45.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 1026,
+                "missions": 48,
+                "category": 48,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/blauer-reiter-tour-9d18",
+                "description": "Wünsche viel Spaß beim Spielen beim 48 Mosaik des Blauen Reiters.   Erschaffen hat den Blauen Reiter Franz Marc (1880 – 1916), wo man das Original im Lenbachhaus anschauen kann.",
+                "length_km": 17.08
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.545971,
+                    48.130672
+                ]
+            },
+            "properties": {
+                "nummer": 46,
+                "title": "Bavaria München",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/46.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 1050,
+                "missions": 24,
+                "category": 24,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/bavaria-m%C3%BCnchen-78e7",
+                "description": "Die kolossale und monumental anmutende Bronzestatue der Bavaria wurde im Auftrag von König Ludwig I. (1786–1868) in den Jahren 1843 bis 1850 errichtet. Sie bildet eine Einheit mit der Ruhmeshalle.",
+                "length_km": 9.69
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.565815,
+                    48.139141
+                ]
+            },
+            "properties": {
+                "nummer": 47,
+                "title": "MUNICHS CELTIC KNOT",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/47.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 1086,
+                "missions": 36,
+                "category": 36,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/munich-s-celtic-knot-a147",
+                "description": "36er Mosaik durch München, das Wissenswertes über die Kelten vermittelt.  Die Kelten besiedelten einst ganz Europa und hinterließen ihre Spuren in Großbritannien, Frankreich, Deutschland & Anatolien",
+                "length_km": 10.38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.558732,
+                    48.133124
+                ]
+            },
+            "properties": {
+                "nummer": 48,
+                "title": "Klue",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/48.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 1092,
+                "missions": 6,
+                "category": 6,
+                "date": 2016,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.599442,
+                    48.140735
+                ]
+            },
+            "properties": {
+                "nummer": 49,
+                "title": "Friedensengel",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/49.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 1140,
+                "missions": 48,
+                "category": 48,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/friedensengel-8105",
+                "description": "Der so genannte Friedensengel ist eigentlich der griechischen Siegesgöttin Nike nachempfunden und erinnert an den Friedensschluss nach Ende des Deutsch-Französischen Krieges von 1870/1871.",
+                "length_km": 13.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.576208,
+                    48.137238
+                ]
+            },
+            "properties": {
+                "nummer": 50,
+                "title": "Weihnachten am Chinesischen Turm",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/50.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 1164,
+                "missions": 24,
+                "category": 24,
+                "date": 2016,
+                "bg_link": "https://bannergress.com/banner/weihnachten-am-chinesischen-turm-46d7",
+                "description": "Der Chinesische Turm wurde in den Jahren 1789 bis 1790 erbaut und 1792 mit der Eröffnung des Englischen Gartens als Aussichtsplattform der Öffentlichkeit zugänglich gemacht.",
+                "length_km": 5.54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.575486,
+                    48.13722
+                ]
+            },
+            "properties": {
+                "nummer": 51,
+                "title": "München",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/51.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 1188,
+                "missions": 24,
+                "category": 24,
+                "date": 2017,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.57594,
+                    48.137372
+                ]
+            },
+            "properties": {
+                "nummer": 52,
+                "title": "Munich City",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/52.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 1200,
+                "missions": 12,
+                "category": 12,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/munich-city-d82e",
+                "description": "Mission series dedicated to all people who visit, live or work in Munich. If you are short in time then do only 6, 12 or 18 parts.  Further informations can be found in portal texts of first mission",
+                "length_km": 33.93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.461687,
+                    48.150701
+                ]
+            },
+            "properties": {
+                "nummer": 53,
+                "title": "Pasinger Stadtwappen",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/53.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 1224,
+                "missions": 24,
+                "category": 24,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/pasinger-stadtwappen-0d09",
+                "description": "Die nächste Mission beginnt jeweils am letzten Portal der vorherigen Mission. Es kommen Hack- und Capture/Upgrade-Missionen vor. Fahrrad ist von Vorteil.",
+                "length_km": 13.85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.437851,
+                    48.262847
+                ]
+            },
+            "properties": {
+                "nummer": 54,
+                "title": "Zombie Apokalypse",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/54.jpg",
+                "region": "Webling",
+                "country": "Deutschland",
+                "completed": 1236,
+                "missions": 12,
+                "category": 12,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/zombie-apokalypse-8e27",
+                "description": "Zombies überrennen die Stadt. Versuche zu entkommen und durchquere die Altstadt.",
+                "length_km": 4.55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.548524,
+                    47.376517
+                ]
+            },
+            "properties": {
+                "nummer": 55,
+                "title": "Zürich Altstadt",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/55.jpg",
+                "region": "Zürich",
+                "country": "Schweiz/Suisse/Svizzera/Svizra",
+                "completed": 1272,
+                "missions": 36,
+                "category": 36,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/z%C3%BCrich-altstadt-2215",
+                "description": "Entdecke auf diesem grossen Rundgang die mindere und die mehrere Altstadt von Zürich.",
+                "length_km": 11.49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.541374,
+                    47.373046
+                ]
+            },
+            "properties": {
+                "nummer": 56,
+                "title": "ETH Zürich",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/56.jpg",
+                "region": "Zürich",
+                "country": "Schweiz/Suisse/Svizzera/Svizra",
+                "completed": 1290,
+                "missions": 18,
+                "category": 18,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/eth-5c7b",
+                "description": "Das Hauptgebäude der ETH Zürich wurde 1864 fertiggestellt. Von 1915 bis 1925 erhielt es ihr heutiges Aussehen.",
+                "length_km": 5.41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.539917,
+                    47.377154
+                ]
+            },
+            "properties": {
+                "nummer": 57,
+                "title": "ZH by Night",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/57.jpg",
+                "region": "Zürich",
+                "country": "Schweiz/Suisse/Svizzera/Svizra",
+                "completed": 1302,
+                "missions": 12,
+                "category": 12,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/zh-by-night-93ab",
+                "description": "12 Missionen-Banner, Start und Ende beim Alfred Escher-Denkmal. Hack only, in Reihenfolge. Jedes Portal muss nur 1x gehackt werden, ausser das Alfred Escher-Denkmal zu Beginn/Ende.",
+                "length_km": 3.06
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.539917,
+                    47.377154
+                ]
+            },
+            "properties": {
+                "nummer": 58,
+                "title": "Old Züri",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/58.jpg",
+                "region": "Zürich",
+                "country": "Schweiz/Suisse/Svizzera/Svizra",
+                "completed": 1320,
+                "missions": 18,
+                "category": 18,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/old-z%C3%BCri-b701",
+                "description": "Wandere durch die Altstadt von Züri.  Denke immer daran: 46vs2",
+                "length_km": 4.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.542888,
+                    47.374226
+                ]
+            },
+            "properties": {
+                "nummer": 59,
+                "title": "MissionDay Zürich",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/59.jpg",
+                "region": "Zürich",
+                "country": "Schweiz/Suisse/Svizzera/Svizra",
+                "completed": 1344,
+                "missions": 24,
+                "category": 24,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/md-z%C3%BCrich-32cc",
+                "description": "N/A",
+                "length_km": 20.03
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.541585,
+                    47.36981
+                ]
+            },
+            "properties": {
+                "nummer": 60,
+                "title": "Chagall Window blue",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/60.jpg",
+                "region": "Zürich",
+                "country": "Schweiz/Suisse/Svizzera/Svizra",
+                "completed": 1350,
+                "missions": 6,
+                "category": 6,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/chagall-window-blue-8212",
+                "description": "The beautiful windows made by Marc Chagall in 1970 belong to the modern, yet classic cultural heritage of Zurich and bring many tourists to Fraumünster.  Optimal starting point for all three windows",
+                "length_km": 1.74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.537097,
+                    47.374777
+                ]
+            },
+            "properties": {
+                "nummer": 61,
+                "title": "Chagall Window yellow",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/61.jpg",
+                "region": "Zürich",
+                "country": "Schweiz/Suisse/Svizzera/Svizra",
+                "completed": 1356,
+                "missions": 6,
+                "category": 6,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/chagall-window-yellow-b02b",
+                "description": "N/A",
+                "length_km": 1.2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.54146,
+                    47.377718
+                ]
+            },
+            "properties": {
+                "nummer": 62,
+                "title": "Zürich Biocard",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/62.jpg",
+                "region": "Zürich",
+                "country": "Schweiz/Suisse/Svizzera/Svizra",
+                "completed": 1380,
+                "missions": 24,
+                "category": 24,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/z%C3%BCrich-biocard-79bc",
+                "description": "Zurich Main Station is the largest train station in Switzerland, it serves about 3000 connections a day. It's the main hub to connect to the rest of Switzerland.",
+                "length_km": 7.97
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.444384,
+                    49.108382
+                ]
+            },
+            "properties": {
+                "nummer": 63,
+                "title": "Berchinger Stadtmauer",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/63.jpg",
+                "region": "Sollngriesbach",
+                "country": "Deutschland",
+                "completed": 1404,
+                "missions": 24,
+                "category": 24,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/berchinger-stadtmauer-6ad3",
+                "description": "Die 1. von 24 Missionen, um ein Mosaik der Berchinger Stadtmauer in's Profil zu kriegen. Hack only. Am besten zu Fuß machbar.",
+                "length_km": 7.46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.558931,
+                    48.140335
+                ]
+            },
+            "properties": {
+                "nummer": 64,
+                "title": "Endless",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/64.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 1464,
+                "missions": 60,
+                "category": 60,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/endless-0851",
+                "description": "A neverending series of missions. Start: Munich Central Station \"Löwe Im Hauptbahnhof\".",
+                "length_km": 20.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.580952,
+                    48.148899
+                ]
+            },
+            "properties": {
+                "nummer": 65,
+                "title": "Rund um die Ludwigskirche",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/65.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 1488,
+                "missions": 24,
+                "category": 24,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/rund-um-die-ludwigskirche-ac36",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.452509,
+                    51.523668
+                ]
+            },
+            "properties": {
+                "nummer": 66,
+                "title": "MissionDay Dortmund - (25 03 2017)",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/66.jpg",
+                "region": "Dortmund",
+                "country": "Deutschland",
+                "completed": 1500,
+                "missions": 12,
+                "category": 12,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/md-dortmund-ca72",
+                "description": "N/A",
+                "length_km": 92.87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.462061,
+                    51.510756
+                ]
+            },
+            "properties": {
+                "nummer": 67,
+                "title": "Darkness",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/67.jpg",
+                "region": "Dortmund",
+                "country": "Deutschland",
+                "completed": 1560,
+                "missions": 60,
+                "category": 60,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/darkness-de-dortmund-eb33",
+                "description": "Eine 60 Wegpunkte Mission durch die Innenstadt von Dortmund. Die Mission startet am Opernhaus.",
+                "length_km": 18.08
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.08132,
+                    49.446999
+                ]
+            },
+            "properties": {
+                "nummer": 68,
+                "title": "MissionDay Kaiserburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/68.jpg",
+                "region": "Nürnberg",
+                "country": "Deutschland",
+                "completed": 1590,
+                "missions": 30,
+                "category": 30,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/missionday-n%C3%BCrnberg-ec91",
+                "description": "Welcome to Nürnberg! Starting at Handwerkerhof across the main station this mission will lead you all along the old city wall up to the imperial castle and back to the main station.",
+                "length_km": 8.73
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.576076,
+                    48.135108
+                ]
+            },
+            "properties": {
+                "nummer": 69,
+                "title": "Viktualienmarkt München",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/69.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 1614,
+                "missions": 24,
+                "category": 24,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/viktualienmarkt-m%C3%BCnchen-14f4",
+                "description": "Der Viktualienmarkt am heutigen Ort entstand aus der Verlegung des alten Münchner Stadtmarktes am Schrannenplatz, dem heutigen Marienplatz, der als Handelsort zu klein geworden war.",
+                "length_km": 7.6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40934,
+                    52.520724
+                ]
+            },
+            "properties": {
+                "nummer": 70,
+                "title": "Berliner Fernsehturm",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/70.jpg",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 1986,
+                "missions": 372,
+                "category": 372,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/berliner-fernsehturm-d601",
+                "description": "NUR NOCH BIS ZUM 31.12.2021 SPIELBAR!  Zur Umgehung des nicht öffentlich begehbaren Charitè-Geländes sind die Missionen Berliner Fernsehturm (altern.) 035 bis Berliner Fernsehturm (altern.) 040 online. Die Änderung der Route beginnt bereits am Hauptbahnhof, um die benötigte Portalanzahl zu erreichen. Ab Mission 41 ist die Originalroute spielbar. https://bannergress.com/banner/berliner-fernsehturm-altern-bee8",
+                "length_km": 139.56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.467882,
+                    49.478441
+                ]
+            },
+            "properties": {
+                "nummer": 71,
+                "title": "MD Mannheim",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/71.jpg",
+                "region": "Baden-Württemberg",
+                "country": "Deutschland",
+                "completed": 2010,
+                "missions": 24,
+                "category": 24,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/md-mannheim-af05",
+                "description": "The Victoria Tower is a postmodern skyscraper, not far from the main railway station in the Lindenhof district.  Its outline has the shape of a rhombus.",
+                "length_km": 21.83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.603175,
+                    48.128008
+                ]
+            },
+            "properties": {
+                "nummer": 72,
+                "title": "Haidhausen",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/72.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 2022,
+                "missions": 12,
+                "category": 12,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/haidhausen-930a",
+                "description": "Eine Tour durch Haidhausen vom Ostbahnhof zum deutschen Museum",
+                "length_km": 4.84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.745318,
+                    48.398697
+                ]
+            },
+            "properties": {
+                "nummer": 73,
+                "title": "Domberg-Mosaik",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/73.jpg",
+                "region": "Freising",
+                "country": "Deutschland",
+                "completed": 2040,
+                "missions": 18,
+                "category": 18,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/domberg-mosaik-67a6",
+                "description": "18-teilige Mosaik-Missionen rund um den Freisinger Domberg. Erster Teil startet im Domhof, wo auch der letzte Teil beendet wird.",
+                "length_km": 8.44
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.558202,
+                    48.248869
+                ]
+            },
+            "properties": {
+                "nummer": 74,
+                "title": "Schlösser in Oberschleißheim",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/74.jpg",
+                "region": "Oberschleißheim",
+                "country": "Deutschland",
+                "completed": 2043,
+                "missions": 3,
+                "category": 3,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/schl%C3%B6sser-in-oberschlei%C3%9Fheim-429e",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.503287,
+                    48.158265
+                ]
+            },
+            "properties": {
+                "nummer": 75,
+                "title": "Nymphenburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/75.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 2046,
+                "missions": 3,
+                "category": 3,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/nymphenburg-19e0",
+                "description": "Schloss Nymphenburg und seine Parkanlage wurden Ende des 17. Jh. geplant und erbaut. Wir erkunden den Parkteil, der nahe am Schloss gelegen ist. Viel Spaß!",
+                "length_km": 1.14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.444106,
+                    48.254208
+                ]
+            },
+            "properties": {
+                "nummer": 76,
+                "title": "Stadtwappen Dachau",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/76.jpg",
+                "region": "Dachau",
+                "country": "Deutschland",
+                "completed": 2070,
+                "missions": 24,
+                "category": 24,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/stadtwappen-dachau-b0c1",
+                "description": "Zeig allen, dass du Dachau wirklich besucht hast! (Start: Bahnhof) Show everyone that you've been to Dachau! (Start: Train Station)  In rememberance of liberation Dachau's concentration camp.",
+                "length_km": 11.39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.596121,
+                    48.134439
+                ]
+            },
+            "properties": {
+                "nummer": 77,
+                "title": "Wiener Platz",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/77.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 2088,
+                "missions": 18,
+                "category": 18,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/wiener-platz-d456",
+                "description": "Am Wiener Platz befindet sich seit 1889 der kleinste der 4 ständigen Märkte Münchens. Nebenan befindet sich der Hofbräukeller, wo auch bis in die 1980er Jahre das Hofbräu-Bier gebraut wurde.",
+                "length_km": 7.9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.568944,
+                    48.273833
+                ]
+            },
+            "properties": {
+                "nummer": 78,
+                "title": "Slius",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/78.jpg",
+                "region": "Unterschleißheim",
+                "country": "Deutschland",
+                "completed": 2094,
+                "missions": 6,
+                "category": 6,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/slius-8a4e",
+                "description": "A walk thru parts of Unterschleißheim City and its nice Valentinspark.",
+                "length_km": 3.99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.560711,
+                    48.140198
+                ]
+            },
+            "properties": {
+                "nummer": 79,
+                "title": "Smurf Muc",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/79.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 2130,
+                "missions": 36,
+                "category": 36,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/smurf-the-earth-2017-germany-026b",
+                "description": "Smurf The Earth 2017 Germany mission banner",
+                "length_km": 10.23
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.251291,
+                    48.077323
+                ]
+            },
+            "properties": {
+                "nummer": 80,
+                "title": "Sunset at the lake",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/80.jpg",
+                "region": "Oberpfaffenhofen",
+                "country": "Deutschland",
+                "completed": 2142,
+                "missions": 12,
+                "category": 12,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/sunset-at-the-lake-8330",
+                "description": "Erkunde den Wesslinger See und mache ein schönes Bild mit Sonnenuntergang am See. Die Missionsreihe besteht aus zwei Runden um den Wesslinger See: Hack&Capture und Link&Field. Endportal = Startportal.",
+                "length_km": 6.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.598087,
+                    48.135479
+                ]
+            },
+            "properties": {
+                "nummer": 81,
+                "title": "Mit der 25 nach Grünwald",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/81.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 2160,
+                "missions": 18,
+                "category": 18,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/mit-der-25-nach-gr%C3%BCnwald-1b1f",
+                "description": "Vom Max-Weber-Platz mit der Tram 25 nach Grünwald. Am Ende kann in Grünwald noch der Schriftzug „Entdecke Grünwald“ (6er Banner) angehängt werden.",
+                "length_km": 17.46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.570978,
+                    48.139034
+                ]
+            },
+            "properties": {
+                "nummer": 82,
+                "title": "Münchner Tatort-Ermittler 1972 bis heute",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/82.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 2166,
+                "missions": 6,
+                "category": 6,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/m%C3%BCnchner-tatort-ermittler-1636",
+                "description": "Ivo Batic und Franz Leitmayr, gespielt von Miroslav Nemec und Udo Wachtveitl, sind seit seit 1991 Münchner Tatort-Kommissare. In den ersten 25 Jahren bekamen sie es mit 152 Toten zu tun ...",
+                "length_km": 2.11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.893635,
+                    48.364449
+                ]
+            },
+            "properties": {
+                "nummer": 83,
+                "title": "Aux@Night",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/83.jpg",
+                "region": "Augsburg",
+                "country": "Deutschland",
+                "completed": 2190,
+                "missions": 24,
+                "category": 24,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/aux-night-bdb8",
+                "description": "Augsburg @ Night, eine kleine Runde durch die Augsburger Innenstadt als Rundkurs angelegt.",
+                "length_km": 6.39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.897081,
+                    48.368866
+                ]
+            },
+            "properties": {
+                "nummer": 84,
+                "title": "Aux Pride",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/84.jpg",
+                "region": "Augsburg",
+                "country": "Deutschland",
+                "completed": 2196,
+                "missions": 6,
+                "category": 6,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/aux-pride-a21a",
+                "description": "Augsburg Pride Erinnert an die CSDs in Augsburg Rund um die bisherigen Veranstaltunsorte",
+                "length_km": 1.54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.903141,
+                    48.36043
+                ]
+            },
+            "properties": {
+                "nummer": 85,
+                "title": "Augsburger Puppenkiste",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/85.jpg",
+                "region": "Augsburg",
+                "country": "Deutschland",
+                "completed": 2208,
+                "missions": 12,
+                "category": 12,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/augsburger-puppenkiste-1aab",
+                "description": "This mosaic is devoted to Augsburger Puppenkiste. It is a well known marionette theater in Augsburg.  It is hack only mosaic without any questions, all missions are  accessible 24/7.",
+                "length_km": 4.39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.094676,
+                    49.020225
+                ]
+            },
+            "properties": {
+                "nummer": 86,
+                "title": "MD Regensburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/86.jpg",
+                "region": "Regensburg",
+                "country": "Deutschland",
+                "completed": 2232,
+                "missions": 24,
+                "category": 24,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/md-regensburg-3d16",
+                "description": "N/A",
+                "length_km": 29.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.102184,
+                    49.021398
+                ]
+            },
+            "properties": {
+                "nummer": 87,
+                "title": "Regensburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/87.jpg",
+                "region": "Regensburg",
+                "country": "Deutschland",
+                "completed": 2256,
+                "missions": 24,
+                "category": 24,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/regensburg-42b9",
+                "description": "Das typische Regensburg-Panorama, wie du es von Postkarten kennst - jetzt für deine Missionssammlung!  The typical panorama of Ratisbona as you love it! Now for your mission-collection!",
+                "length_km": 6.76
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.102202,
+                    49.020536
+                ]
+            },
+            "properties": {
+                "nummer": 88,
+                "title": "Skyline RGB",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/88.jpg",
+                "region": "Regensburg",
+                "country": "Deutschland",
+                "completed": 2262,
+                "missions": 6,
+                "category": 6,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/skyline-rgb-40c3",
+                "description": "Entdecke Regensburg entlang der Donau! // Explore Regensburg on a series of six consecutive hack-only missions!",
+                "length_km": 1.46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.587126,
+                    48.139775
+                ]
+            },
+            "properties": {
+                "nummer": 89,
+                "title": "Stress an der Isar",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/89.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 2298,
+                "missions": 36,
+                "category": 36,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/stress-an-der-isar-5cc7",
+                "description": "Minga, du machst mi fertig möchte man laut ausschreien angesichts von all dem Stress, den man in unserem Millionendorf täglich erlebt. Dieses Missionsbanner soll als Mahnung dienen!",
+                "length_km": 15.65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.586938,
+                    48.139956
+                ]
+            },
+            "properties": {
+                "nummer": 90,
+                "title": "Munich resists!",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/90.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 2364,
+                "missions": 66,
+                "category": 66,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/munich-resists-aa8d",
+                "description": "Sei kein Frosch - und folge dem Weg des Widerstands durch die bayerische Landeshauptstadt!",
+                "length_km": 25.94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.584719,
+                    48.157372
+                ]
+            },
+            "properties": {
+                "nummer": 91,
+                "title": "Münchens Biergärten",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/91.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 2370,
+                "missions": 6,
+                "category": 6,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/m%C3%BCnchens-bierg%C3%A4rten-ce86",
+                "description": "Besuche Münchens große Biergärten",
+                "length_km": 13.99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.564524,
+                    53.430879
+                ]
+            },
+            "properties": {
+                "nummer": 92,
+                "title": "SZCZECIN for TOURISTS",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/92.jpg",
+                "region": "Szczecin",
+                "country": "Polska",
+                "completed": 2376,
+                "missions": 6,
+                "category": 6,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/szczecin-for-tourists-0201",
+                "description": "Welcome to Szczecin! Let's take a walk together and complete the banner! Hack-only #tourist-friendly missions!",
+                "length_km": 1.63
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.552349,
+                    53.41929
+                ]
+            },
+            "properties": {
+                "nummer": 93,
+                "title": "MAGNUS Reawakens Szczecin",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/93.jpg",
+                "region": "Szczecin",
+                "country": "Polska",
+                "completed": 2418,
+                "missions": 42,
+                "category": 42,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/magnus-reawakens-szczecin-796c",
+                "description": "42 missions in recognition of your contributions during 13Magnus Reawakens XM Anomaly in Szczecin, 26.08.2017",
+                "length_km": 13.54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.55235,
+                    53.431931
+                ]
+            },
+            "properties": {
+                "nummer": 94,
+                "title": "MD Szczecin",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/94.jpg",
+                "region": "Szczecin",
+                "country": "Polska",
+                "completed": 2430,
+                "missions": 12,
+                "category": 12,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/md-szczecin-46c7",
+                "description": "The Avenue of Fountains, part of the Golden Route is a common place for walking and relaxing. It is lined with rectangular fountains, hedges, and a multitude of restaurants.",
+                "length_km": 41.61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.031108,
+                    54.308521
+                ]
+            },
+            "properties": {
+                "nummer": 95,
+                "title": "Die Stralsunder Tardis",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/95.jpg",
+                "region": "Stralsund",
+                "country": "Deutschland",
+                "completed": 2454,
+                "missions": 24,
+                "category": 24,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/die-stralsunder-tardis-e5ff",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85215,
+                    53.311645
+                ]
+            },
+            "properties": {
+                "nummer": 96,
+                "title": "Prenzlau Marienkirche",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/96.jpg",
+                "region": "Prenzlau",
+                "country": "Deutschland",
+                "completed": 2466,
+                "missions": 12,
+                "category": 12,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/prenzlau-marienkirche-c1d5",
+                "description": "Eine kleine Stadterkundung durch das Zentrum von Prenzlau.",
+                "length_km": 4.94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.147025,
+                    48.53133
+                ]
+            },
+            "properties": {
+                "nummer": 97,
+                "title": "Landshuter Katze",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/97.jpg",
+                "region": "Landshut",
+                "country": "Deutschland",
+                "completed": 2496,
+                "missions": 30,
+                "category": 30,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/landshuter-katze-d42b",
+                "description": "Die Landshuter Katze führt euch durch unser schönes Landshut.  Viel Spaß",
+                "length_km": 7.93
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.565863,
+                    48.133503
+                ]
+            },
+            "properties": {
+                "nummer": 98,
+                "title": "Sendlinger-Tor-Platz",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/98.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 2520,
+                "missions": 24,
+                "category": 24,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/sendlinger-tor-platz-ec38",
+                "description": "Im Rahmen der großen Stadterweiterung durch Ludwig den Bayern entstand 1285 bis 1337 eine zweite Stadtbefestigung, in deren Rahmen das Sendlinger Tor errichtet wurde. 1319 wird es erstmals erwähnt.",
+                "length_km": 8.6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.438011,
+                    48.743869
+                ]
+            },
+            "properties": {
+                "nummer": 99,
+                "title": "Stadtwappen Ingolstadt",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/99.jpg",
+                "region": "Ingolstadt",
+                "country": "Deutschland",
+                "completed": 2562,
+                "missions": 42,
+                "category": 42,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/stadtwappen-ingolstadt-73f7",
+                "description": "Das 1200 Jahre alte Ingolstadt war jahrhundertelang Universitätsstadt, Zentrum politischer Macht und später Festungsstadt. Diese Mosaik führt durch eine hübsche, aber unterschätzte  Großstadt.",
+                "length_km": 20.49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.593304,
+                    48.602198
+                ]
+            },
+            "properties": {
+                "nummer": 100,
+                "title": "Hopfenmuseum Wolnzach",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/100.jpg",
+                "region": "Lohwinden",
+                "country": "Deutschland",
+                "completed": 2580,
+                "missions": 18,
+                "category": 18,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/hopfenmuseum-wolnzach-dec9",
+                "description": "Das Deutsche Hopfenmuseum in Wolnzach in der Hallertau in Bayern wurde 2002 vom Förderverein Deutsches Hopfenmuseum auf dem ehemaligen Gelände des Feuerwehrhauses eingerichtet.",
+                "length_km": 10.21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.874977,
+                    48.918289
+                ]
+            },
+            "properties": {
+                "nummer": 101,
+                "title": "Frogball",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/101.jpg",
+                "region": "Kelheim",
+                "country": "Deutschland",
+                "completed": 2604,
+                "missions": 24,
+                "category": 24,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/frogball-97a6",
+                "description": "Spiel, Schlag und Sieg! Entdecke bei einer gemütlichen Partie Frogball die wunderschöne Stadt Kelheim am bayrischen Bosporus! Mit freundlicher Unterstützung der Resistance Rhein-Main",
+                "length_km": 7.87
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.097466,
+                    49.020928
+                ]
+            },
+            "properties": {
+                "nummer": 102,
+                "title": "BC Regensburgp",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/102.jpg",
+                "region": "Regensburg",
+                "country": "Deutschland",
+                "completed": 2628,
+                "missions": 24,
+                "category": 24,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/bc-regensburg-4d46",
+                "description": "Visit the \"Historische Wurstkuchl\". This is notable as perhaps the oldest continuously open public diner in the world. It serves food to people since 1146. Enjoy the famous \"Bratwurschtkipferl\".",
+                "length_km": 6.41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.097637,
+                    49.019456
+                ]
+            },
+            "properties": {
+                "nummer": 103,
+                "title": "Regensburg Donaupanorama",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/103.jpg",
+                "region": "Regensburg",
+                "country": "Deutschland",
+                "completed": 2652,
+                "missions": 24,
+                "category": 24,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/regensburg-donaupanorama-8a3d",
+                "description": "Erlebe unsere wunderschöne Stadt an der Donau durch einen schönen Spaziergang! Ich wünsche euch viel Spaß!",
+                "length_km": 8.61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.56265,
+                    48.884298
+                ]
+            },
+            "properties": {
+                "nummer": 104,
+                "title": "Topographia Bavariae Straubinga",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/104.jpg",
+                "region": "Straubing",
+                "country": "Deutschland",
+                "completed": 2664,
+                "missions": 12,
+                "category": 12,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/topographia-bavariae-straubinga-9e97",
+                "description": "A Tour through the historical Straubing.",
+                "length_km": 4.14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.937949,
+                    49.79297
+                ]
+            },
+            "properties": {
+                "nummer": 105,
+                "title": "Residenz Würzburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/105.jpg",
+                "region": "Würzburg",
+                "country": "Deutschland",
+                "completed": 2682,
+                "missions": 18,
+                "category": 18,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/residenz-w%C3%BCrzburg-7c43",
+                "description": "Besuche die ehemalige Residenz der Würzburger Fürstbischöfe. Mosaik Mission. Bitte vorher die Öffnungszeiten beachten.",
+                "length_km": 5.92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.586407,
+                    48.141346
+                ]
+            },
+            "properties": {
+                "nummer": 106,
+                "title": "Funky Owl",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/106.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 2694,
+                "missions": 12,
+                "category": 12,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/funky-owl-e1be",
+                "description": "Diese Missionsreihe startet in der Nähe der Eisbachwelle und führt euch vom St. Anna Platz, über die Maximilianstraße, Richtung Marienplatz. Es gibt viel zu entdecken!",
+                "length_km": 3.28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.580304,
+                    48.149114
+                ]
+            },
+            "properties": {
+                "nummer": 107,
+                "title": "Heart Core Beat Munich",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/107.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 2700,
+                "missions": 6,
+                "category": 6,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/heart-core-beat-munich-4fa6",
+                "description": "This resistance heartbeat as a counterpart to the luminescent heart leads  you through one of the most beautiful quarters of Munich.",
+                "length_km": 2.7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.398409,
+                    51.319722
+                ]
+            },
+            "properties": {
+                "nummer": 108,
+                "title": "MD Leipzig 21-10-2017",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/108.jpg",
+                "region": "Leipzig",
+                "country": "Deutschland",
+                "completed": 2712,
+                "missions": 12,
+                "category": 12,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/md-leipzig-cd0c",
+                "description": "The only sample fair from the eastern block countries took place here. Once a year it brought some western flair to the GDR.",
+                "length_km": 73.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.379711,
+                    51.344563
+                ]
+            },
+            "properties": {
+                "nummer": 109,
+                "title": "Leipziger Stadtrunde",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/109.jpg",
+                "region": "Leipzig",
+                "country": "Deutschland",
+                "completed": 2718,
+                "missions": 6,
+                "category": 6,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/leipziger-stadtrunde-8503",
+                "description": "Dies ist  eine kleine 6-teilige Missionsreihe durch das Herz der Messestadt und führt euch an dein Sehenswürdigkeiten des alten und neuen Leipzigs. Ihr startet am ehemals größten Sackbahnhof.",
+                "length_km": 2.22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.692991,
+                    54.044021
+                ]
+            },
+            "properties": {
+                "nummer": 110,
+                "title": "Skulpturenpark Katzow",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/110.jpg",
+                "region": "Katzow",
+                "country": "Deutschland",
+                "completed": 2742,
+                "missions": 24,
+                "category": 24,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/skulpturenpark-katzow-4359",
+                "description": "Der Park besteht seit 1991. Gründer des Skulpturenparks Katzow ist der Bildhauer Thomas Radeloff.",
+                "length_km": 6.38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.622524,
+                    48.297429
+                ]
+            },
+            "properties": {
+                "nummer": 111,
+                "title": "Know Your Doctor",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/111.jpg",
+                "region": "Eching",
+                "country": "Deutschland",
+                "completed": 2754,
+                "missions": 12,
+                "category": 12,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/know-your-doctor-10b3",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.372678,
+                    48.19535
+                ]
+            },
+            "properties": {
+                "nummer": 112,
+                "title": "Halloween in G zell",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/112.jpg",
+                "region": "Gröbenzell",
+                "country": "Deutschland",
+                "completed": 2772,
+                "missions": 18,
+                "category": 18,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/halloween-in-g-zell-1638",
+                "description": "Ursprünglich aus Irland stammend fand der Brauch, in der Nacht vor Allerheiligen beleuchtete Kürbisse (als \"Jack O’Lantern\" bekannt) aufzustellen, in den 90ern seinen Weg über die USA auch zu uns.",
+                "length_km": 3.38
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.561197,
+                    48.284507
+                ]
+            },
+            "properties": {
+                "nummer": 113,
+                "title": "Link Trainer",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/113.jpg",
+                "region": "Unterschleißheim",
+                "country": "Deutschland",
+                "completed": 2790,
+                "missions": 18,
+                "category": 18,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/link-trainer-d948",
+                "description": "Diese Portalreihe führt euch durch Unterschleißheim. Start ist das Infinity Hotel im Gewerbegebiet.",
+                "length_km": 18.78
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.246921,
+                    48.17097
+                ]
+            },
+            "properties": {
+                "nummer": 114,
+                "title": "Kloster Fürstenfeld",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/114.jpg",
+                "region": "Fürstenfeldbruck",
+                "country": "Deutschland",
+                "completed": 2814,
+                "missions": 24,
+                "category": 24,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/kloster-f%C3%BCrstenfeld-cd21",
+                "description": "Das Kloster Fürstenfeld ist eine ehemalige Zisterzienserabtei in Fürstenfeldbruck in der Erzdiözese München und Freising.",
+                "length_km": 8.19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.588841,
+                    48.143266
+                ]
+            },
+            "properties": {
+                "nummer": 115,
+                "title": "CTM - Serie",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/115.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 2826,
+                "missions": 12,
+                "category": 12,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/ctm-249c",
+                "description": "N/A",
+                "length_km": 8.28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.260179,
+                    53.557388
+                ]
+            },
+            "properties": {
+                "nummer": 116,
+                "title": "Vier-Tore-Stadt",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/116.jpg",
+                "region": "Neubrandenburg",
+                "country": "Deutschland",
+                "completed": 2844,
+                "missions": 18,
+                "category": 18,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/vier-tore-stadt-5193",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.07488,
+                    53.35968
+                ]
+            },
+            "properties": {
+                "nummer": 117,
+                "title": "Ring of Fire",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/117.jpg",
+                "region": "Neustrelitz",
+                "country": "Deutschland",
+                "completed": 2862,
+                "missions": 18,
+                "category": 18,
+                "date": 2017,
+                "bg_link": "https://bannergress.com/banner/ring-of-fire-7641",
+                "description": "Dieses Mosaik beginnt am Neustrelitzer Bahnhof und wird auch hier enden. Ihr werdet die Neustrelitzer Innenstadt mit ihren historischen Sehenswürdigkeiten erkunden. Ihr kommt auch zu Fuß durch.",
+                "length_km": 9.83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.975287,
+                    51.200384
+                ]
+            },
+            "properties": {
+                "nummer": 118,
+                "title": "Weißenfels Stadt an der Saale",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/118.jpg",
+                "region": "Weißenfels",
+                "country": "Deutschland",
+                "completed": 2880,
+                "missions": 18,
+                "category": 18,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/wei%C3%9Fenfels-stadt-an-der-saale-c456",
+                "description": "Herzlich Willkommen zum 18zener Mosaik der Stadt Weißenfels. In jeder Mission erwartet euch am Ende eine Passphrase. Alle Fragen könnt ihr mit Wiki beantworten. Ich wünsche euch viel Spaß!",
+                "length_km": 4.7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.902978,
+                    48.361922
+                ]
+            },
+            "properties": {
+                "nummer": 119,
+                "title": "Ausgewogene Ernährung in Augsburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/119.jpg",
+                "region": "Augsburg",
+                "country": "Deutschland",
+                "completed": 2904,
+                "missions": 24,
+                "category": 24,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/ausgewogene-ern%C3%A4hrung-in-augsburg-807f",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.897771,
+                    48.367034
+                ]
+            },
+            "properties": {
+                "nummer": 120,
+                "title": "Augsburg im Januar",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/120.jpg",
+                "region": "Augsburg",
+                "country": "Deutschland",
+                "completed": 2934,
+                "missions": 30,
+                "category": 30,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/augsburg-im-januar-a82b",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.902859,
+                    48.359896
+                ]
+            },
+            "properties": {
+                "nummer": 121,
+                "title": "Back in Time",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/121.jpg",
+                "region": "Augsburg",
+                "country": "Deutschland",
+                "completed": 2952,
+                "missions": 18,
+                "category": 18,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/back-in-time-2f24",
+                "description": "Das Mosaik führt euch an einigen denkwürdigen Plätzen Augsburgs vorbei. Gleich in der  Nähe der ersten Mission befindet sich die Augsburger Puppenkiste.",
+                "length_km": 5.36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.64795,
+                    48.100909
+                ]
+            },
+            "properties": {
+                "nummer": 122,
+                "title": "Man s Greatness",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/122.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 2988,
+                "missions": 36,
+                "category": 36,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/man-s-greatness-13d7",
+                "description": "Inspired by the artwork of  Scott Manley, leading my dear fellows in a new area of Munich which they might not have visited before.",
+                "length_km": 20.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.899209,
+                    48.369633
+                ]
+            },
+            "properties": {
+                "nummer": 123,
+                "title": "Eine Woche voller Kuchen",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/123.jpg",
+                "region": "Augsburg",
+                "country": "Deutschland",
+                "completed": 3024,
+                "missions": 36,
+                "category": 36,
+                "date": 2018,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.889437,
+                    48.367667
+                ]
+            },
+            "properties": {
+                "nummer": 124,
+                "title": "Augsburg im Februar",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/124.jpg",
+                "region": "Augsburg",
+                "country": "Deutschland",
+                "completed": 3054,
+                "missions": 30,
+                "category": 30,
+                "date": 2018,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.89838,
+                    48.368734
+                ]
+            },
+            "properties": {
+                "nummer": 125,
+                "title": "Goldener Saal Augsburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/125.jpg",
+                "region": "Augsburg",
+                "country": "Deutschland",
+                "completed": 3078,
+                "missions": 24,
+                "category": 24,
+                "date": 2018,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.37645,
+                    48.682936
+                ]
+            },
+            "properties": {
+                "nummer": 126,
+                "title": "Einstein",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/126.jpg",
+                "region": "Wendlingen am Neckar",
+                "country": "Deutschland",
+                "completed": 3126,
+                "missions": 48,
+                "category": 48,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/einstein-8298",
+                "description": "Welcome to Wendlingen am Neckar to the \"Einstein-Mission\" at the beautiful small lake \"Hüttensee\". Have fun on fast laps around the lake. The final result is an image of Albert Einstein.",
+                "length_km": 13.16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.709437,
+                    49.413285
+                ]
+            },
+            "properties": {
+                "nummer": 127,
+                "title": "Bridge Runner",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/127.jpg",
+                "region": "Heidelberg",
+                "country": "Deutschland",
+                "completed": 3132,
+                "missions": 6,
+                "category": 6,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/bridge-runner-a158",
+                "description": "Hin und her auf der Brücke mit Fragen & Hacks. Als 5er- oder 6er-Mission spielbar. / Across the Old Bridge with hacks & questions. Can be played as 5- or 6-mission-set.",
+                "length_km": 1.59
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.506583,
+                    50.097253
+                ]
+            },
+            "properties": {
+                "nummer": 128,
+                "title": "Bazinga",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/128.jpg",
+                "region": "Frankfurt am Main",
+                "country": "Deutschland",
+                "completed": 3138,
+                "missions": 6,
+                "category": 6,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/bazinga-6917",
+                "description": "Die Missionsreihe führt euch einmal durch Zeilsheim. Die Missionen starten mit einer Passphrase, danach  Hack only. Das letzte Portal ist auch gleich das Startportal der nächsten Mission :)",
+                "length_km": 3.41
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.607167,
+                    50.124608
+                ]
+            },
+            "properties": {
+                "nummer": 129,
+                "title": "Ameisennebel Rödelheim",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/129.jpg",
+                "region": "Frankfurt am Main",
+                "country": "Deutschland",
+                "completed": 3156,
+                "missions": 18,
+                "category": 18,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/ameisennebel-r%C3%B6delheim-4f83",
+                "description": "Der Ameisennebel ist ein junger planetarischer Nebel. Der Name Ameisennebel kommt von seinem Aussehen, da er dem Thorax einer Ameise ähnelt.",
+                "length_km": 7.88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.682509,
+                    50.110412
+                ]
+            },
+            "properties": {
+                "nummer": 130,
+                "title": "Old Town Frankfurt",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/130.jpg",
+                "region": "Frankfurt am Main",
+                "country": "Deutschland",
+                "completed": 3174,
+                "missions": 18,
+                "category": 18,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/old-town-frankfurt-e920",
+                "description": "This tour guides you through the Old Town of Frankfurt. We start on the Roemerberg, where the old city hall called Roemer is placed. This mission is hack-only. (Picture from an old postcard of 1915)",
+                "length_km": 6.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.664123,
+                    50.107356
+                ]
+            },
+            "properties": {
+                "nummer": 131,
+                "title": "Bf-Viertel FFM",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/131.jpg",
+                "region": "Frankfurt am Main",
+                "country": "Deutschland",
+                "completed": 3180,
+                "missions": 6,
+                "category": 6,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/bahnhofsviertel-ffm-4599",
+                "description": "Discover the fascinating facets of the cosmopolitan microcosm at Frankfurts central  station in six chapters.  Let's go and... discover a peacefull park.",
+                "length_km": 4.45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.678426,
+                    50.110098
+                ]
+            },
+            "properties": {
+                "nummer": 132,
+                "title": "An der Paulskirche",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/132.jpg",
+                "region": "Frankfurt am Main",
+                "country": "Deutschland",
+                "completed": 3216,
+                "missions": 36,
+                "category": 36,
+                "date": 2018,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.70143,
+                    50.122789
+                ]
+            },
+            "properties": {
+                "nummer": 133,
+                "title": "Der Doktor in Frankfurt",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/133.jpg",
+                "region": "Frankfurt am Main",
+                "country": "Deutschland",
+                "completed": 3240,
+                "missions": 24,
+                "category": 24,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/der-doktor-in-frankfurt-34ee",
+                "description": "Es ist 2017 und Der Doktor ist dabei die Welt in Frankfurt zu retten. Hilf Ihm sein Gedächtnis wieder zu erlangen und den Weg zurück zur Tardis zu finden.",
+                "length_km": 11.42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.642779,
+                    49.641673
+                ]
+            },
+            "properties": {
+                "nummer": 134,
+                "title": "HP Banner Mission",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/134.jpg",
+                "region": "Heppenheim",
+                "country": "Deutschland",
+                "completed": 3252,
+                "missions": 12,
+                "category": 12,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/hp-banner-mission-0f33",
+                "description": "Schön gemütliche Tour durch die Heppenheimer Fußgängerzone und Altstadt. Bei richtiger Reihenfolge ergibt sich ein Bild von Marco Mayer. Start und Ende nah am Graben, wo auch geparkt werden kann.",
+                "length_km": 2.82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.643477,
+                    49.641064
+                ]
+            },
+            "properties": {
+                "nummer": 135,
+                "title": "Heppenheimer Mosaik",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/135.jpg",
+                "region": "Heppenheim",
+                "country": "Deutschland",
+                "completed": 3264,
+                "missions": 12,
+                "category": 12,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/heppenheimer-mosaik-9793",
+                "description": "Gemütliche Hackerrunde durch Heppenheim. Startet am Graben (wo man auch parken kann).  Wenn die Missionen in richtiger Reihenfolge durchgeführt werden fügt sich ein Bild von Heppenheim zusammen.",
+                "length_km": 3.37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.992846,
+                    48.398191
+                ]
+            },
+            "properties": {
+                "nummer": 136,
+                "title": "Ulm",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/136.jpg",
+                "region": "Ulm",
+                "country": "Deutschland",
+                "completed": 3288,
+                "missions": 24,
+                "category": 24,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/ulm-1c90",
+                "description": "Visit and explore Ulm (\"In Ulm, um Ulm und um Ulm herum\")",
+                "length_km": 6.94
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.555921,
+                    48.179037
+                ]
+            },
+            "properties": {
+                "nummer": 137,
+                "title": "Olydorf-Tour",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/137.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 3306,
+                "missions": 18,
+                "category": 18,
+                "date": 2018,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.565815,
+                    48.139141
+                ]
+            },
+            "properties": {
+                "nummer": 138,
+                "title": "Zum Viktualienmarkt",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/138.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 3324,
+                "missions": 18,
+                "category": 18,
+                "date": 2018,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.184637,
+                    48.162505
+                ]
+            },
+            "properties": {
+                "nummer": 139,
+                "title": "Burg Haag",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/139.jpg",
+                "region": "Haag in Oberbayern",
+                "country": "Deutschland",
+                "completed": 3336,
+                "missions": 12,
+                "category": 12,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/burg-haag-747f",
+                "description": "Die Mission führt einmal durch  Haag in Oberbayern. Die Missionsreihe startet und endet am Parkplatz an der Rute",
+                "length_km": 4.62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.227009,
+                    48.062498
+                ]
+            },
+            "properties": {
+                "nummer": 140,
+                "title": "Wasserburger Altstadt",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/140.jpg",
+                "region": "Wasserburg am Inn",
+                "country": "Deutschland",
+                "completed": 3348,
+                "missions": 12,
+                "category": 12,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/wasserburger-altstadt-2c0e",
+                "description": "Part 01/12 of a mission-sequence that will guide you through the Historic Center of Wasserburg (inside Inn-ring) The missions (1-12) should be done in sequence (start @Busbahnhof) to get a nice reward",
+                "length_km": 5.45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.126886,
+                    47.859826
+                ]
+            },
+            "properties": {
+                "nummer": 141,
+                "title": "Rosenheim",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/141.jpg",
+                "region": "Rosenheim",
+                "country": "Deutschland",
+                "completed": 3366,
+                "missions": 18,
+                "category": 18,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/rosenheim-ea4e",
+                "description": "Kleine Runde durch Rosenheim",
+                "length_km": 6.82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.894585,
+                    48.366462
+                ]
+            },
+            "properties": {
+                "nummer": 142,
+                "title": "Augsburg im März",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/142.jpg",
+                "region": "Augsburg",
+                "country": "Deutschland",
+                "completed": 3396,
+                "missions": 30,
+                "category": 30,
+                "date": 2018,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.884934,
+                    48.367378
+                ]
+            },
+            "properties": {
+                "nummer": 143,
+                "title": "AUX Beer",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/143.jpg",
+                "region": "Augsburg",
+                "country": "Deutschland",
+                "completed": 3414,
+                "missions": 18,
+                "category": 18,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/aux-beer-0cc4",
+                "description": "Eine 18-teilige Missionenkette, die dich zu einem Rundkurs in Augsburgs Stadtmitte einlädt.",
+                "length_km": 7.05
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.511265,
+                    48.15844
+                ]
+            },
+            "properties": {
+                "nummer": 144,
+                "title": "Nymphenburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/144.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 3432,
+                "missions": 18,
+                "category": 18,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/nymphenburg-2b6d",
+                "description": "Eine Tour vom Schloss Nymphenburg über den Hubertusbrunnen zum Löwenbräukeller immer der nach dem Schloss benannten Nymphenburger Strasse entlang.",
+                "length_km": 8.65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.568919,
+                    48.138648
+                ]
+            },
+            "properties": {
+                "nummer": 145,
+                "title": "Grüner Gustl",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/145.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 3522,
+                "missions": 90,
+                "category": 90,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/gr%C3%BCner-gustl-2b31",
+                "description": "Mit dem Grünen Gustl durch die Münchner Innenstadt.",
+                "length_km": 24.48
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.575546,
+                    48.137437
+                ]
+            },
+            "properties": {
+                "nummer": 146,
+                "title": "Districts of Munich",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/146.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 3546,
+                "missions": 24,
+                "category": 24,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/districts-of-munich-83ab",
+                "description": "Mission-sequence through Munich's districts. DayTicket (Inneraum) helps ;)",
+                "length_km": 83.57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.89815,
+                    48.367413
+                ]
+            },
+            "properties": {
+                "nummer": 147,
+                "title": "Süße Verführung in Augsburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/147.jpg",
+                "region": "Augsburg",
+                "country": "Deutschland",
+                "completed": 3576,
+                "missions": 30,
+                "category": 30,
+                "date": 2018,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.26258,
+                    48.171765
+                ]
+            },
+            "properties": {
+                "nummer": 148,
+                "title": "HeartCore Beat FFB",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/148.jpg",
+                "region": "Fürstenfeldbruck",
+                "country": "Deutschland",
+                "completed": 3582,
+                "missions": 6,
+                "category": 6,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/heartcore-beat-ffb-ea0e",
+                "description": "N/A",
+                "length_km": 4.09
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.044842,
+                    47.813104
+                ]
+            },
+            "properties": {
+                "nummer": 149,
+                "title": "Salzburg Domination Tour",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/149.jpg",
+                "region": "Salzburg",
+                "country": "Österreich",
+                "completed": 3642,
+                "missions": 60,
+                "category": 60,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/salzburg-domination-tour-9711",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.533097,
+                    48.15275
+                ]
+            },
+            "properties": {
+                "nummer": 150,
+                "title": "Blue Moon 2018",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/150.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 3660,
+                "missions": 18,
+                "category": 18,
+                "date": 2018,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.894525,
+                    48.367894
+                ]
+            },
+            "properties": {
+                "nummer": 151,
+                "title": "Augsburg im April",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/151.jpg",
+                "region": "Augsburg",
+                "country": "Deutschland",
+                "completed": 3690,
+                "missions": 30,
+                "category": 30,
+                "date": 2018,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.896541,
+                    48.372555
+                ]
+            },
+            "properties": {
+                "nummer": 152,
+                "title": "Augsburger Dom",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/152.jpg",
+                "region": "Augsburg",
+                "country": "Deutschland",
+                "completed": 3720,
+                "missions": 30,
+                "category": 30,
+                "date": 2018,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.551648,
+                    48.100534
+                ]
+            },
+            "properties": {
+                "nummer": 153,
+                "title": "Tierpark",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/153.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 3726,
+                "missions": 6,
+                "category": 6,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/tierpark-8564",
+                "description": "Der 1911 gegründete Tierpark Hellabrunn gehört zu Münchens Highlights. Die Erdmännchenmissionen führen durch den Zoo (Ｒeihenfolge der Missionen beliebig). Viel Spaß!",
+                "length_km": 2.72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.042008,
+                    47.807234
+                ]
+            },
+            "properties": {
+                "nummer": 154,
+                "title": "50 Shades of Cyan",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/154.jpg",
+                "region": "Salzburg",
+                "country": "Österreich",
+                "completed": 3738,
+                "missions": 12,
+                "category": 12,
+                "date": 2018,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.575546,
+                    48.137437
+                ]
+            },
+            "properties": {
+                "nummer": 155,
+                "title": "Bayern Flagge",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/155.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 3762,
+                "missions": 24,
+                "category": 24,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/bayern-flagge-d575",
+                "description": "Erkunde die bayerische Hauptstadt, beantworte Fragen zu Bayern und erhalte als Belohnung die bayerische Flagge mit Wappen. Diese Mission startet am Marienplatz.",
+                "length_km": 6.57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.536431,
+                    48.117838
+                ]
+            },
+            "properties": {
+                "nummer": 156,
+                "title": "Frühlingsspaziergang",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/156.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 3786,
+                "missions": 24,
+                "category": 24,
+                "date": 2018,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.393195,
+                    47.268576
+                ]
+            },
+            "properties": {
+                "nummer": 157,
+                "title": "Tiroler Wal",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/157.jpg",
+                "region": "Innsbruck",
+                "country": "Österreich",
+                "completed": 3810,
+                "missions": 24,
+                "category": 24,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/tiroler-wal-75c1",
+                "description": "Tiroler Wal Mission 1 von 24",
+                "length_km": 6.58
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.555921,
+                    48.179037
+                ]
+            },
+            "properties": {
+                "nummer": 158,
+                "title": "Whaleomaly is Coming",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/158.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 3816,
+                "missions": 6,
+                "category": 6,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/whaleomaly-is-coming-4bda",
+                "description": "Entdecke Münchens Wale! Bring sie mit, damit wir diese bei der Whaleomaly in Linz verbünden !  Explore Munichs Whales! Take them with you to unite at the Whaleomaly Linz!",
+                "length_km": 3.06
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.568944,
+                    48.273833
+                ]
+            },
+            "properties": {
+                "nummer": 159,
+                "title": "Flying Spaghetti Monster",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/159.jpg",
+                "region": "Unterschleißheim",
+                "country": "Deutschland",
+                "completed": 3834,
+                "missions": 18,
+                "category": 18,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/flying-spaghetti-monster-3382",
+                "description": "Diese Mosaik führt vom Bahnhof Unterschleißheim zum Bahnhof Lohhof mit vielen Umwegen. - Our One Creator Which Flies and is Spaghetti and a Monster,",
+                "length_km": 18.35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.749702,
+                    48.176896
+                ]
+            },
+            "properties": {
+                "nummer": 160,
+                "title": "Whaleomaly is Coming [Kirchheim b. München]",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/160.jpg",
+                "region": "Kirchheim bei München",
+                "country": "Deutschland",
+                "completed": 3840,
+                "missions": 6,
+                "category": 6,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/whaleomaly-is-coming-kirchheim-b-m%C3%BCnchen-79bc",
+                "description": "Explore Kirchheims Whales! Take them with you to unite at the Whaleomaly Linz!  Entdecke Kirchheims Wale! Bring sie mit, damit wir diese bei der Walomalie in Linz verbünden!",
+                "length_km": 4.55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.554669,
+                    48.180531
+                ]
+            },
+            "properties": {
+                "nummer": 161,
+                "title": "1972 Summer Olympics",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/161.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 3864,
+                "missions": 24,
+                "category": 24,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/1972-summer-olympics-b055",
+                "description": "Visit the places where the games took place: Olympic Village, Olympiapark, Nymphenburg Palace, Oberschleißheim Regatta Course, Firing Range Garching, Rudi-Sedlmayer-Hall Sendling, Riding stadium Riem",
+                "length_km": 64.57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.900145,
+                    48.362013
+                ]
+            },
+            "properties": {
+                "nummer": 162,
+                "title": "Augsburg St Ulrich und Afra",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/162.jpg",
+                "region": "Augsburg",
+                "country": "Deutschland",
+                "completed": 3924,
+                "missions": 60,
+                "category": 60,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/augsburg-st-ulrich-und-afra-7c19",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.535624,
+                    48.152683
+                ]
+            },
+            "properties": {
+                "nummer": 163,
+                "title": "Neuhausen Wal",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/163.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 3948,
+                "missions": 24,
+                "category": 24,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/neuhausen-wal-b74f",
+                "description": "Lass dich verzaubern vom Einhornwal in Neuhausen",
+                "length_km": 9.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.078086,
+                    49.452761
+                ]
+            },
+            "properties": {
+                "nummer": 164,
+                "title": "Blaue Nacht Ost",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/164.jpg",
+                "region": "Nürnberg",
+                "country": "Deutschland",
+                "completed": 3984,
+                "missions": 36,
+                "category": 36,
+                "date": 2018,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.078086,
+                    49.452761
+                ]
+            },
+            "properties": {
+                "nummer": 165,
+                "title": "Blaue Nacht Nord",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/165.jpg",
+                "region": "Nürnberg",
+                "country": "Deutschland",
+                "completed": 4020,
+                "missions": 36,
+                "category": 36,
+                "date": 2018,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.078086,
+                    49.452761
+                ]
+            },
+            "properties": {
+                "nummer": 166,
+                "title": "Blaue Nacht Süd",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/166.jpg",
+                "region": "Nürnberg",
+                "country": "Deutschland",
+                "completed": 4056,
+                "missions": 36,
+                "category": 36,
+                "date": 2018,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.08324,
+                    49.451958
+                ]
+            },
+            "properties": {
+                "nummer": 167,
+                "title": "Catpool (Rote Nürnberger Katze)",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/167.jpg",
+                "region": "Nürnberg",
+                "country": "Deutschland",
+                "completed": 4092,
+                "missions": 36,
+                "category": 36,
+                "date": 2018,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.615827,
+                    48.302697
+                ]
+            },
+            "properties": {
+                "nummer": 168,
+                "title": "Whaleomaly is Coming [Eching]",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/168.jpg",
+                "region": "Eching",
+                "country": "Deutschland",
+                "completed": 4098,
+                "missions": 6,
+                "category": 6,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/whaleomaly-is-coming-7628",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.464558,
+                    52.514989
+                ]
+            },
+            "properties": {
+                "nummer": 169,
+                "title": "Defeat the Hulk",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/169.jpg",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 4104,
+                "missions": 6,
+                "category": 6,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/defeat-the-hulk-03ea",
+                "description": "This tour guides you through the Friedrichshain Nordkiez which is also known as the Samariterkiez. You will find a lot of fascinating places here.",
+                "length_km": 1.62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.474693,
+                    52.514424
+                ]
+            },
+            "properties": {
+                "nummer": 170,
+                "title": "Friedrichshain Nord",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/170.jpg",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 4122,
+                "missions": 18,
+                "category": 18,
+                "date": 2018,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.475188,
+                    52.532442
+                ]
+            },
+            "properties": {
+                "nummer": 171,
+                "title": "The Eye of the Eagle",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/171.jpg",
+                "region": "Berlin",
+                "country": "Deutschland",
+                "completed": 4140,
+                "missions": 18,
+                "category": 18,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/the-eye-of-the-eagle-066e",
+                "description": "This is a 18 missions walk through the Fennpfuhl park. At the end you will have an eagle in your profile, the heraldic animal of Poland, Austria, Germany and many other countries.",
+                "length_km": 5.81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.607187,
+                    53.377768
+                ]
+            },
+            "properties": {
+                "nummer": 172,
+                "title": "Whaleomaly is Coming [Röbel Müritz]",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/172.jpg",
+                "region": "Röbel/Müritz",
+                "country": "Deutschland",
+                "completed": 4146,
+                "missions": 6,
+                "category": 6,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/whaleomaly-is-coming-7e20",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.062367,
+                    53.363804
+                ]
+            },
+            "properties": {
+                "nummer": 173,
+                "title": "Schlosskirche Mosaik Teil",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/173.jpg",
+                "region": "Neustrelitz",
+                "country": "Deutschland",
+                "completed": 4164,
+                "missions": 18,
+                "category": 18,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/schlosskirche-mosaik-teil-c34b",
+                "description": "In der ersten Mission beginnt ihr den Rundgang durch das historische Neustrelitz am Markt. Die Tour  führt euch durch die Innenstadt von Neustrelitz. Am besten, ihr macht die Missionen zu Fuß.",
+                "length_km": 10.45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.633432,
+                    51.866831
+                ]
+            },
+            "properties": {
+                "nummer": 174,
+                "title": "Wittenberg Art",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/174.jpg",
+                "region": "Wittenberg",
+                "country": "Deutschland",
+                "completed": 4182,
+                "missions": 18,
+                "category": 18,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/wittenberg-art-1499",
+                "description": "eine lustige Runde",
+                "length_km": 6.04
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.632263,
+                    48.126225
+                ]
+            },
+            "properties": {
+                "nummer": 175,
+                "title": "Whaleomaly is Coming [Berg am Laim]",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/175.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 4188,
+                "missions": 6,
+                "category": 6,
+                "date": 2018,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.898483,
+                    48.366626
+                ]
+            },
+            "properties": {
+                "nummer": 176,
+                "title": "Augsburg im Mai",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/176.jpg",
+                "region": "Augsburg",
+                "country": "Deutschland",
+                "completed": 4218,
+                "missions": 30,
+                "category": 30,
+                "date": 2018,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.899863,
+                    48.367358
+                ]
+            },
+            "properties": {
+                "nummer": 177,
+                "title": "Augsburg im Juni",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/177.jpg",
+                "region": "Augsburg",
+                "country": "Deutschland",
+                "completed": 4248,
+                "missions": 30,
+                "category": 30,
+                "date": 2018,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.24622,
+                    48.171304
+                ]
+            },
+            "properties": {
+                "nummer": 178,
+                "title": "Whaleomaly is Coming [Kloster Fürstenfeld]",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/178.jpg",
+                "region": "Fürstenfeldbruck",
+                "country": "Deutschland",
+                "completed": 4254,
+                "missions": 6,
+                "category": 6,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/whaleomaly-is-coming-kloster-f%C3%BCrstenfeld-4826",
+                "description": "Entdecke die Wale im Kloster Fürstenfeld! Bring sie mit zur Walomalie nach Linz, sie dort zu verbünden! Explore the Whales of Kloster Fürstenfeld! Take them with you to unite at the Whaleomaly Linz!",
+                "length_km": 2.49
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.460917,
+                    48.149014
+                ]
+            },
+            "properties": {
+                "nummer": 179,
+                "title": "Stammstrecke München",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/179.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 4308,
+                "missions": 54,
+                "category": 54,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/stammstrecke-m%C3%BCnchen-4ade",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.876695,
+                    48.049682
+                ]
+            },
+            "properties": {
+                "nummer": 180,
+                "title": "Catgress Landsberg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/180.jpg",
+                "region": "Landsberg am Lech",
+                "country": "Deutschland",
+                "completed": 4332,
+                "missions": 24,
+                "category": 24,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/catgress-landsberg-7ccd",
+                "description": "Es kann gar nicht zu viele Katzenfotos geben! Schleicht auf Katzenpfoten durch die Landsberger Altstadt.  Das Catgress Mosaik besteht aus 24 Einzelmissionen (Hack/Passphrase)",
+                "length_km": 8.12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.892914,
+                    48.369541
+                ]
+            },
+            "properties": {
+                "nummer": 181,
+                "title": "Catpool (Rote Augsburger Katze)",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/181.jpg",
+                "region": "Augsburg",
+                "country": "Deutschland",
+                "completed": 4368,
+                "missions": 36,
+                "category": 36,
+                "date": 2018,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.003043,
+                    47.857743
+                ]
+            },
+            "properties": {
+                "nummer": 182,
+                "title": "Bad Aibling - Therme",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/182.jpg",
+                "region": "Willing",
+                "country": "Deutschland",
+                "completed": 4380,
+                "missions": 12,
+                "category": 12,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/bad-aibling-therme-51f4",
+                "description": "Die Therme in Bad Aibling ist jedermann bekannt. Mit Abschluss dieser Missionsserie in der richtigen Reihenfolge erhältst du ein Bild der Therme.",
+                "length_km": 4.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.004945,
+                    47.862026
+                ]
+            },
+            "properties": {
+                "nummer": 183,
+                "title": "Heart Core Beat Aibling",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/183.jpg",
+                "region": "Bad Aibling",
+                "country": "Deutschland",
+                "completed": 4386,
+                "missions": 6,
+                "category": 6,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/heart-core-beat-aibling-1920",
+                "description": "Fühle den Herzschlag vom schönen Bad Aibling.",
+                "length_km": 1.42
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.119574,
+                    47.85047
+                ]
+            },
+            "properties": {
+                "nummer": 184,
+                "title": "Whaleomaly is Coming / [Rosenheim]",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/184.jpg",
+                "region": "Rosenheim",
+                "country": "Deutschland",
+                "completed": 4392,
+                "missions": 6,
+                "category": 6,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/whaleomaly-is-coming-rosenheim-f13a",
+                "description": "Entdecke Rosenheims Wale! Bring sie mit, damit wir diese bei der Walomalie in Linz verbünden ! Explore Rosenheims Whales! Take them with you to unite at the Whaleomaly Linz!",
+                "length_km": 1.57
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.119574,
+                    47.85047
+                ]
+            },
+            "properties": {
+                "nummer": 185,
+                "title": "Rosenheimer Tiger",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/185.jpg",
+                "region": "Rosenheim",
+                "country": "Deutschland",
+                "completed": 4410,
+                "missions": 18,
+                "category": 18,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/rosenheimer-tiger-dd08",
+                "description": "Erkunde Rosenheim!",
+                "length_km": 4.79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.143429,
+                    47.852574
+                ]
+            },
+            "properties": {
+                "nummer": 186,
+                "title": "Das Auge am Inn",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/186.jpg",
+                "region": "Rosenheim",
+                "country": "Deutschland",
+                "completed": 4428,
+                "missions": 18,
+                "category": 18,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/das-auge-am-inn-a19d",
+                "description": "Erkunde die Rosenheimer Portale am Inn",
+                "length_km": 4.83
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.009136,
+                    47.862482
+                ]
+            },
+            "properties": {
+                "nummer": 187,
+                "title": "Aiblinger Wolf",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/187.jpg",
+                "region": "Bad Aibling",
+                "country": "Deutschland",
+                "completed": 4446,
+                "missions": 18,
+                "category": 18,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/aiblinger-wolf-be80",
+                "description": "Hackrunde durch den Kurpark zur Eisdiele. Insgesamt 4 Runden.  Nur nach Aufforderung hacken.",
+                "length_km": 3.47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.571345,
+                    48.153409
+                ]
+            },
+            "properties": {
+                "nummer": 188,
+                "title": "Crying Angel",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/188.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 4458,
+                "missions": 12,
+                "category": 12,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/crying-angel-59c9",
+                "description": "Kleine Tour über den alten Nordfriedhof. Vorsicht vor den weinenden Engel",
+                "length_km": 2.21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.575486,
+                    48.13722
+                ]
+            },
+            "properties": {
+                "nummer": 189,
+                "title": "Marienplatz SPIDERWEB",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/189.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 4470,
+                "missions": 12,
+                "category": 12,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/marienplatz-spiderweb-6516",
+                "description": "Such link. Very hack. Wow.",
+                "length_km": 2.55
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.505557,
+                    48.179616
+                ]
+            },
+            "properties": {
+                "nummer": 190,
+                "title": "Moosach St. Martin",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/190.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 4506,
+                "missions": 36,
+                "category": 36,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/moosach-st-martin-8710",
+                "description": "Die Alte Pfarrkirche St. Martin im Münchner Stadtteil Moosach",
+                "length_km": 26.62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.108723,
+                    49.02045
+                ]
+            },
+            "properties": {
+                "nummer": 191,
+                "title": "Rengschburger Dom",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/191.jpg",
+                "region": "Regensburg",
+                "country": "Deutschland",
+                "completed": 4566,
+                "missions": 60,
+                "category": 60,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/rengschburger-dom-1d01",
+                "description": "Servus, Griaß di und Habedere in Rengschburg! Dieses Mosaik hat insgesamt 60 Missionen und ist auf 3 Teile aufgeteilt. Parken und Start Unterer Wöhrd. Viel Spaß",
+                "length_km": 16.84
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.100138,
+                    49.013222
+                ]
+            },
+            "properties": {
+                "nummer": 192,
+                "title": "Whaleomaly is Coming Regensburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/192.jpg",
+                "region": "Regensburg",
+                "country": "Deutschland",
+                "completed": 4572,
+                "missions": 6,
+                "category": 6,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/whaleomaly-is-coming-regensburg-7a9c",
+                "description": "Entdecke Regensburgs Wale! Bring sie mit, damit wir diese bei der Whaleomaly in Linz verbünden ! Explore Regensburgs Whales! Take them with you to unite at the Whaleomaly Linz!",
+                "length_km": 1.62
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.677878,
+                    48.228511
+                ]
+            },
+            "properties": {
+                "nummer": 193,
+                "title": "Wale auch in Altötting",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/193.jpg",
+                "region": "Altötting",
+                "country": "Deutschland",
+                "completed": 4578,
+                "missions": 6,
+                "category": 6,
+                "date": 2018,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.40235,
+                    48.206246
+                ]
+            },
+            "properties": {
+                "nummer": 194,
+                "title": "Ich mag Waldkraiburg",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/194.jpg",
+                "region": "Waldkraiburg",
+                "country": "Deutschland",
+                "completed": 4584,
+                "missions": 6,
+                "category": 6,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/ich-mag-waldkraiburg-d034",
+                "description": "Eine Tour durch Waldkraiburg. Wenn man die Missionen der Reihe nach macht erhält man den Schriftzug \"Ich mag Waldkraiburg\". Mission 1: Vom Rathaus Richtung Stadtpark",
+                "length_km": 4.01
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.894585,
+                    48.366462
+                ]
+            },
+            "properties": {
+                "nummer": 195,
+                "title": "Augsburg im Juli",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/195.jpg",
+                "region": "Augsburg",
+                "country": "Deutschland",
+                "completed": 4614,
+                "missions": 30,
+                "category": 30,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/augsburg-im-juli-9dbb",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.894974,
+                    48.36603
+                ]
+            },
+            "properties": {
+                "nummer": 196,
+                "title": "Augsburg im August",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/196.jpg",
+                "region": "Augsburg",
+                "country": "Deutschland",
+                "completed": 4644,
+                "missions": 30,
+                "category": 30,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/augsburg-im-august-e95e",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.000639,
+                    55.608707
+                ]
+            },
+            "properties": {
+                "nummer": 197,
+                "title": "May the force be with you Malmö",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/197.jpg",
+                "region": "Malmö",
+                "country": "Sverige",
+                "completed": 4650,
+                "missions": 6,
+                "category": 6,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/may-the-force-be-with-you-malm%C3%B6-abe8",
+                "description": "Quick banner mission in order to bring out the force in central parts of Malmö.  All portals available 24/7.",
+                "length_km": 1.91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.999743,
+                    55.609676
+                ]
+            },
+            "properties": {
+                "nummer": 198,
+                "title": "Malmö",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/198.jpg",
+                "region": "Malmö",
+                "country": "Sverige",
+                "completed": 4656,
+                "missions": 6,
+                "category": 6,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/malm%C3%B6-e57e",
+                "description": "Mini mosaik",
+                "length_km": 2.64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.984311,
+                    55.606285
+                ]
+            },
+            "properties": {
+                "nummer": 199,
+                "title": "I want to be a pirate!",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/199.jpg",
+                "region": "Malmö",
+                "country": "Sverige",
+                "completed": 4668,
+                "missions": 12,
+                "category": 12,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/i-want-to-be-a-pirate-a503",
+                "description": "Begin at \"the gold factory\" where you buried your treasure and take a stroll on the artificial part of Malmö, \"western harbour\", to be able to draw up your own pirate map. All portals available 24/7",
+                "length_km": 6.6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.987334,
+                    55.604689
+                ]
+            },
+            "properties": {
+                "nummer": 200,
+                "title": "Slaget om Malmö",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/200.jpg",
+                "region": "Malmö",
+                "country": "Sverige",
+                "completed": 4674,
+                "missions": 6,
+                "category": 6,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/slaget-om-malm%C3%B6-8c4a",
+                "description": "Sista kriget mellan Sverige och Danmark var i slutet av 1600-talet. Då hade det krigats  till och från i ett par hundra år om Skåne.  Bild av 1658 när Karl X Gustav besöker nya staden. Not 24/7!",
+                "length_km": 2.56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.007023,
+                    55.597817
+                ]
+            },
+            "properties": {
+                "nummer": 201,
+                "title": "Region Skåne Banner",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/201.jpg",
+                "region": "Malmö",
+                "country": "Sverige",
+                "completed": 4716,
+                "missions": 42,
+                "category": 42,
+                "date": 2018,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.286292,
+                    48.306077
+                ]
+            },
+            "properties": {
+                "nummer": 202,
+                "title": "Spencer",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/202.jpg",
+                "region": "Oberösterreich",
+                "country": "Österreich",
+                "completed": 4740,
+                "missions": 24,
+                "category": 24,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/spencer-801d",
+                "description": "Take your Phone, and explore the Center in Linz in the shortest amount of time and the moste efficient way. Get as many unique portal visits as possible 1/12",
+                "length_km": 5.13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.289772,
+                    48.290208
+                ]
+            },
+            "properties": {
+                "nummer": 203,
+                "title": "Whaleomaly Is Here",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/203.jpg",
+                "region": "Oberösterreich",
+                "country": "Österreich",
+                "completed": 4770,
+                "missions": 30,
+                "category": 30,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/whaleomaly-is-here-eee0",
+                "description": "25 million years ago, Linz was populated by Whales. Discover and explore them at Linz's Central Station, learn some facts about Whales and unite them at Whaleomaly on August 25th, 2018!",
+                "length_km": 7.16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.298115,
+                    48.312464
+                ]
+            },
+            "properties": {
+                "nummer": 204,
+                "title": "Cassandra Mission Day Linz 2018",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/204.jpg",
+                "region": "Oberösterreich",
+                "country": "Österreich",
+                "completed": 4776,
+                "missions": 6,
+                "category": 6,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/cassandra-md-linz-5ee3",
+                "description": "Discover Linz through missions!",
+                "length_km": 21.33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.574875,
+                    48.137357
+                ]
+            },
+            "properties": {
+                "nummer": 205,
+                "title": "Catpool (Rote Münchner Katze)",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/205.jpg",
+                "region": "München",
+                "country": "Deutschland",
+                "completed": 4812,
+                "missions": 36,
+                "category": 36,
+                "date": 2018,
+                "bg_link": "N/A",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.655087,
+                    39.575945
+                ]
+            },
+            "properties": {
+                "nummer": 206,
+                "title": "Mallorca Skyline",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/206.jpg",
+                "region": "Palma",
+                "country": "España",
+                "completed": 4818,
+                "missions": 6,
+                "category": 6,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/mallorca-skyline-4eb2",
+                "description": "Mallorca is one of Spain's Balearic Islands in the Mediterranean. It's known for beach resorts, sheltered coves, limestone mountains and Roman and Moorish remains. Capital Palma has nightlife.",
+                "length_km": 1.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.641013,
+                    39.57017
+                ]
+            },
+            "properties": {
+                "nummer": 207,
+                "title": "MD 2018 Palma",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/207.jpg",
+                "region": "Palma",
+                "country": "España",
+                "completed": 4830,
+                "missions": 12,
+                "category": 12,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/md-2018-palma-8a04",
+                "description": "A selection of the art exhibited in the terraces of the museum of modern and contemporary art Es Baluard. Picture by almudena martinez.",
+                "length_km": 9.07
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.65311,
+                    39.575453
+                ]
+            },
+            "properties": {
+                "nummer": 208,
+                "title": "Here Be Dragons - Dragomaly",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/208.jpg",
+                "region": "Palma",
+                "country": "España",
+                "completed": 4860,
+                "missions": 30,
+                "category": 30,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/here-be-dragons-a7a8",
+                "description": "N/A",
+                "length_km": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.654007,
+                    39.576161
+                ]
+            },
+            "properties": {
+                "nummer": 209,
+                "title": "Dragomaly",
+                "picture": "https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/209.jpg",
+                "region": "Palma",
+                "country": "España",
+                "completed": 4896,
+                "missions": 36,
+                "category": 36,
+                "date": 2018,
+                "bg_link": "https://bannergress.com/banner/dragomaly-86b8",
+                "description": "N/A",
+                "length_km": null
+            }
+        }
+    ]
+}

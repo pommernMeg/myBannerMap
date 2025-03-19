@@ -3,150 +3,153 @@ import json
 import argparse
 import os
 import requests
-from bs4 import BeautifulSoup
 from urllib.parse import urljoin
-from requests.structures import CaseInsensitiveDict
+import logging
 
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def convert_to_float(value):
-    """Wandelt eine Zahl mit Komma als Dezimaltrennzeichen in eine Float-Zahl um."""
-    if isinstance(value, float):
-        return value  # Bereits ein Float, direkt zurückgeben
+    if pd.isna(value) or value == "":
+        return None
     try:
         return float(str(value).replace(",", "."))
     except ValueError:
         return None
 
 def get_value(value):
-    """Gibt den Wert zurück oder 'N/A', falls er nicht verfügbar ist."""
     return value if pd.notna(value) else "N/A"
 
+def parse_int(value):
+    if pd.isna(value):
+        return 0
+    try:
+        value_str = str(value).replace(".0", "")
+        return int(value_str)
+    except ValueError:
+        return 0
 
 def download_image_from_url(page_url, save_path):
-    """
-    Lädt das erste Bild eines Hyperlinks herunter, falls es noch nicht existiert.
-    :param page_url: URL der Webseite, von der das Bild heruntergeladen werden soll
-    :param save_path: Pfad, unter dem das Bild gespeichert werden soll
-    """
     if os.path.exists(save_path):
-        print(f"Bild existiert bereits: {save_path}")
-        return False
-    
+        logging.info(f"Bild existiert bereits: {save_path}")
+        return True
     try:
-        # Anfrage an die URL senden
         response = requests.get(page_url, timeout=15)
-
-        # Prüfen, ob der Request erfolgreich war
         if response.status_code == 200:
-            # Datei lokal speichern
             with open(save_path, 'wb') as f:
                 f.write(response.content)
+            logging.info(f"Bild erfolgreich heruntergeladen: {save_path}")
+            return True
         else:
-            print(f"Fehler beim Download des Bildes: Statuscode {response.status_code}")
-                # Webseite abrufen
+            logging.error(f"Fehler beim Download: Statuscode {response.status_code}")
+            return False
     except requests.RequestException as e:
-        print(f"Fehler beim Abrufen der URL: {e}")
+        logging.error(f"Fehler beim Abrufen der URL: {e}")
         return False
 
 def download_picture(banner_nr, link):
-    """Dummy-Funktion zum Herunterladen eines Bildes von Bannergress."""
-    print(f"Lade Bild für Banner-NR {banner_nr} herunter...")
+    logging.info(f"Lade Bild für Banner-NR {banner_nr} herunter...")
     url = f"https://api.bannergress.com/bnrs/{link}"
+    headers = {"Accept": "application/json"}
+    try:
+        resp = requests.get(url, headers=headers, timeout=30)
+        resp.raise_for_status()
+    except requests.RequestException as e:
+        logging.error(f"API-Abfrage fehlgeschlagen: {e}")
+        return
+    json_file = resp.json()
+    picture_url = json_file.get("picture")
+    if picture_url:
+        page_url = urljoin("https://api.bannergress.com", picture_url)
+        save_path = f"banner/{banner_nr}.jpg"
+        download_image_from_url(page_url, save_path)
+    else:
+        logging.error("Bild-URL nicht in API-Antwort enthalten.")
 
-    headers = CaseInsensitiveDict()
-    headers["Accept"] = "application/xml"
+def save_geojson(features, output_file):
+    geojson = {"type": "FeatureCollection", "features": features}
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(geojson, f, indent=4, ensure_ascii=False)
+    logging.info(f"GeoJSON-Datei wurde erstellt: {output_file}")
 
-    resp = requests.get(url, headers=headers, timeout=120)
-    string = json.dumps(resp.text)
-    dump = json.loads(string)
-
-    with open('temp.json', 'w', encoding='utf8') as the_file:
-        output = f"{dump}"
-        the_file.write(f'{output}\n')
-    
-    f = open('temp.json')
-    json_file = json.load(f)
-
-    page_url = f"""https://api.bannergress.com{json_file["picture"]}"""
-    save_path = f"""banner/{banner_nr}.jpg"""
-    download_image_from_url(page_url, save_path)
-
-def tsv_to_geojson(input_file, output_file):
-    # TSV-Datei einlesen
-    df = pd.read_csv(input_file, sep='\t')
-
-    # Sicherstellen, dass der Ordner für Bilder existiert
+def tsv_to_geojson(input_file, output_file, missions_threshold=5000):
+    df = pd.read_csv(input_file, sep='\t', on_bad_lines='skip')
     os.makedirs("banner", exist_ok=True)
-
-    # Liste für Banner ohne BG-Link
     need_picture_list = []
 
-    # GeoJSON-Grundstruktur
-    geojson = {
-        "type": "FeatureCollection",
-        "features": []
-    }
+    features = []
+    file_count = 1
+    current_missions_sum = 0
 
-    # Durch die Zeilen iterieren und GeoJSON-Features erstellen
-    for _, row in df.iterrows():
-        banner_nr = get_value(row["nummer"])
-        bg_link = get_value(row["bg-link"])
+    columns = df.columns.tolist()
+    idx = {col: columns.index(col) for col in columns}
+
+    for row in df.itertuples(index=False, name=None):
+        banner_nr = get_value(row[idx["nummer"]])
+        bg_link = get_value(row[idx["bg-link"]])
+        missions = parse_int(row[idx["missions"]])
+
+        lon = convert_to_float(row[idx["startLongitude"]])
+        lat = convert_to_float(row[idx["startLatitude"]])
+        if lon is None or lat is None:
+            logging.warning(f"Ungültige Koordinaten für Banner-NR {banner_nr}. Überspringe Eintrag.")
+            continue
 
         if bg_link != "N/A":
-            link = bg_link.split("/")
-            link = link[len(link) - 1]
+            link = bg_link.split("/")[-1]
             download_picture(banner_nr, link)
             picture_path = f"https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/{banner_nr}.jpg"
         else:
-            save_path = f"""banner/{banner_nr}.jpg"""
+            save_path = f"banner/{banner_nr}.jpg"
             if not os.path.exists(save_path):
-                need_picture_list.append(f"{banner_nr}: {get_value(row['titel'])}")
+                need_picture_list.append(f"{banner_nr}: {get_value(row[idx['titel']])}")
                 picture_path = "N/A"
             else:
                 picture_path = f"https://raw.githubusercontent.com/pommernMeg/myBannerMap/refs/heads/main/banner/{banner_nr}.jpg"
 
         feature = {
             "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [convert_to_float(row["startLongitude"]), convert_to_float(row["startLatitude"])]
-            },
+            "geometry": {"type": "Point", "coordinates": [lon, lat]},
             "properties": {
                 "nummer": banner_nr,
-                "title": get_value(row["titel"]),
+                "title": get_value(row[idx["titel"]]),
                 "picture": picture_path,
-                "region": get_value(row["region"]),
-                "country": get_value(row["country"]),
-                "completed": get_value(row["completed"]),
-                "missions": get_value(row["missions"]),
-                "category": get_value(row["missions"]),
-                "date": get_value(row["date"]),
+                "region": get_value(row[idx["region"]]),
+                "country": get_value(row[idx["country"]]),
+                "completed": parse_int(row[idx["completed"]]),
+                "missions": missions,
+                "category": get_value(row[idx["missions"]]),
+                "date": get_value(row[idx["date"]]),
                 "bg_link": bg_link,
-                "description": get_value(row["description"]),
-                "length_km": get_value(convert_to_float(row["lengthKMeters"]))
+                "description": get_value(row[idx["description"]]),
+                "length_km": convert_to_float(row[idx["lengthKMeters"]]) or None
             }
         }
-        geojson["features"].append(feature)
 
-    # GeoJSON speichern
-    with open(output_file, "w", encoding="utf-8") as f:
-        json.dump(geojson, f, indent=4, ensure_ascii=False)
+        if current_missions_sum + missions > missions_threshold and features:
+            current_output_file = f"{output_file.rstrip('.geojson')}_{file_count}.geojson"
+            save_geojson(features, current_output_file)
+            features = []
+            current_missions_sum = 0
+            file_count += 1
 
-    print(f"GeoJSON-Datei wurde erstellt: {output_file}")
+        features.append(feature)
+        current_missions_sum += missions
 
-    # Liste der Banner ohne BG-Link speichern
+    if features:
+        current_output_file = f"{output_file.rstrip('.geojson')}_{file_count}.geojson"
+        save_geojson(features, current_output_file)
+
     if need_picture_list:
         with open("needPicture.txt", "w", encoding="utf-8") as f:
             f.write("\n".join(need_picture_list))
-        print("Liste der Banner ohne BG-Link wurde in needPicture.txt gespeichert.")
-
-def main():
-    parser = argparse.ArgumentParser(description="Konvertiert eine TSV-Datei in eine GeoJSON-Datei.")
-    parser.add_argument("input_file", help="Pfad zur Eingabe-TSV-Datei")
-    parser.add_argument("output_file", help="Pfad zur Ausgabe-GeoJSON-Datei")
-    args = parser.parse_args()
-
-    tsv_to_geojson(args.input_file, args.output_file)
+        logging.info("Liste der Banner ohne BG-Link in needPicture.txt gespeichert.")
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description="TSV zu GeoJSON-Konverter.")
+    parser.add_argument("input_file", help="Pfad zur Eingabe-TSV-Datei")
+    parser.add_argument("output_file", help="Pfad zur Ausgabe-GeoJSON-Datei")
+    parser.add_argument("--threshold", type=int, default=5000, help="Maximale Missionsanzahl je GeoJSON-Datei")
+    args = parser.parse_args()
+
+    tsv_to_geojson(args.input_file, args.output_file, args.threshold)
+
